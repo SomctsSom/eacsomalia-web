@@ -290,7 +290,7 @@ html[data-text="l"] { font-size: 18px; }
 /* Raise photo subjects toward the top of the hero (see crop marks) */
 .page-home .slide img {
   object-fit: cover;
-  object-position: center 58%;
+  object-position: center 42%;
 }
 
 .page-home .hero h1 {
