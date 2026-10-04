@@ -292,21 +292,28 @@ html[data-text="l"] { font-size: 18px; }
   object-position: center 30%; /* per-slide override via inline imagePosition */
 }
 
-/* Lighter overlay; stronger at the bottom title band */
+/* Stronger bottom band for centered title */
 .page-home .slide:after {
-  background: linear-gradient(180deg, #04142622 0%, #04142633 48%, #041426d4 100%);
+  background: linear-gradient(180deg, #04142618 0%, #04142640 45%, #041426e6 100%);
 }
 
 .page-home .hero-content {
+  display: flex;
   align-items: flex-end;
-  padding-top: 0;
-  padding-bottom: 52px;
+  justify-content: center;
+  padding: 0 16px 44px;
+}
+
+.page-home .hero-content .container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .page-home .hero-copy {
-  width: min(720px, 90%);
-  margin-top: 0;
-  margin-bottom: 0;
+  width: min(820px, 94%);
+  margin: 0 auto;
+  text-align: center;
 }
 
 .page-home .hero h1 {
@@ -315,13 +322,15 @@ html[data-text="l"] { font-size: 18px; }
   font-size: clamp(18px, 2.2vw, 28px);
   line-height: 1.25;
   letter-spacing: -.01em;
-  margin: 0;
-  max-width: none;
+  margin: 0 auto;
+  max-width: 28ch;
+  text-align: center;
   text-shadow: 0 2px 16px #041426aa;
 }
 
 .page-home .hero h1 a {
   color: #fff;
+  display: inline-block;
 }
 
 .page-home .hero h1 a:hover {
@@ -331,7 +340,7 @@ html[data-text="l"] { font-size: 18px; }
 }
 
 .page-home .hero-dots {
-  bottom: 58px;
+  bottom: 14px;
 }
 
 .btn.ghost {
