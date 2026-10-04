@@ -19,8 +19,11 @@ $events = $site['events'] ?? [];
 <section class="hero">
     <div id="heroSlides">
         <?php foreach ($hero as $i => $slide): ?>
+        <?php
+            $focus = (string) ($slide['imagePosition'] ?? 'center 30%');
+        ?>
         <article class="slide<?= $i === 0 ? ' active' : '' ?>">
-            <img src="<?= Router::e(url($slide['image'] ?? '')) ?>" alt="<?= Router::e(loc($slide['alt'] ?? $slide['title'] ?? '')) ?>">
+            <img src="<?= Router::e(url($slide['image'] ?? '')) ?>" alt="<?= Router::e(loc($slide['alt'] ?? $slide['title'] ?? '')) ?>" style="object-position: <?= Router::e($focus) ?>">
             <div class="hero-content">
                 <div class="container">
                     <div class="hero-copy">

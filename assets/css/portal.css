@@ -289,7 +289,7 @@ html[data-text="l"] { font-size: 18px; }
 
 .page-home .slide img {
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center 30%; /* per-slide override via inline imagePosition */
 }
 
 /* Lighter overlay so the photo shows through */
