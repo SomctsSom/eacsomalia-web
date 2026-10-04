@@ -15,6 +15,7 @@ Apache (this folder under `/var/www/html`): [http://localhost/eacsomalia/qa.eacs
 ## Content files
 
 - `data/site.json` — homepage, news, tracker, opportunities, events, leadership
+- `data/hero.json` — homepage slider photos + crop (`crop.x` / `crop.y` 0–100) for a future admin panel
 - `data/pages.json` — inner pages
 - `data/i18n.json` — EN / SO / SW labels
 

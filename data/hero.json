@@ -1,0 +1,129 @@
+{
+    "_comment": "Homepage hero slider. Admin panel can later edit slides[].image and slides[].crop without touching PHP. crop.x = 0 left / 100 right; crop.y = 0 top / 100 bottom.",
+    "defaults": {
+        "fit": "cover",
+        "crop": { "x": 50, "y": 30 }
+    },
+    "slides": [
+        {
+            "id": "president-treaty",
+            "enabled": true,
+            "sort": 1,
+            "image": "assets/images/eac-president-ready-02.jpg",
+            "fit": "cover",
+            "crop": { "x": 50, "y": 24 },
+            "eyebrow": {
+                "en": "Stronger together",
+                "so": "Wada xoog badan",
+                "sw": "Pamoja tuna nguvu"
+            },
+            "title": {
+                "en": "Somalia in the East African Community",
+                "so": "Soomaaliya ee Bulshada Bariga Afrika",
+                "sw": "Somalia katika Jumuiya ya Afrika Mashariki"
+            },
+            "text": {
+                "en": "Building peace, prosperity and a shared future through regional integration, free movement and sustainable economic growth.",
+                "so": "Dhisidda nabad, barwaaqo iyo mustaqbal wadaag ah iyadoo loo marayo isku-dhafka gobolka, dhaqdhaqaaqa xorta ah iyo koboca dhaqaale ee waara.",
+                "sw": "Kujenga amani, ustawi na mustakabali wa pamoja kupitia ujumuishaji wa kikanda, uhuru wa kutembea na ukuaji endelevu wa uchumi."
+            },
+            "alt": {
+                "en": "H.E. President Hassan Sheikh Mohamud with the EAC Secretary General holding the Treaty for the Establishment of the East African Community",
+                "so": "Mudane Madaxweyne Xasan Sheekh Maxamuud oo ay weheliyaan Xoghayaha Guud ee EAC iyagoo haysta Heshiiska Aasaaska Bulshada Bariga Afrika",
+                "sw": "Mhe. Rais Hassan Sheikh Mohamud pamoja na Katibu Mkuu wa EAC wakiwa wameshika Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki"
+            },
+            "primary": {
+                "en": "About Somalia in EAC",
+                "so": "Soomaaliya ee EAC",
+                "sw": "Kuhusu Somalia katika EAC"
+            },
+            "primaryHref": "somalia-in-eac/what-membership-means",
+            "secondary": {
+                "en": "EAC Membership Benefits",
+                "so": "Faa'iidooyinka xubinnimada",
+                "sw": "Manufaa ya uanachama wa EAC"
+            },
+            "secondaryHref": "somalia-in-eac/membership"
+        },
+        {
+            "id": "accession-meeting",
+            "enabled": true,
+            "sort": 2,
+            "image": "assets/images/eac-president-ready.jpg",
+            "fit": "cover",
+            "crop": { "x": 50, "y": 38 },
+            "eyebrow": {
+                "en": "Partner State",
+                "so": "Xubin wadaag",
+                "sw": "Nchi Mshirika"
+            },
+            "title": {
+                "en": "Somalia is the 8th EAC Partner State",
+                "so": "Soomaaliya waa xubinta 8aad ee EAC",
+                "sw": "Somalia ni Nchi Mshirika ya 8 ya EAC"
+            },
+            "text": {
+                "en": "A national gateway for integration progress, trade services, citizen mobility and Somalia's voice in regional institutions.",
+                "so": "Albaab qaran oo loogu talagalay horumarka isku-dhafka, adeegyada ganacsiga, dhaqdhaqaaqa muwaadiniinta iyo codka Soomaaliya ee hay'adaha gobolka.",
+                "sw": "Lango la taifa la maendeleo ya ujumuishaji, huduma za biashara, uhamaji wa wananchi na sauti ya Somalia katika taasisi za kikanda."
+            },
+            "alt": {
+                "en": "President Hassan Sheikh Mohamud meets EAC leadership on Somalia's accession path",
+                "so": "Madaxweyne Xasan Sheekh Maxamuud oo la kulmay hogaanka EAC ee dariiqa xubinnimada Soomaaliya",
+                "sw": "Rais Hassan Sheikh Mohamud akikutana na uongozi wa EAC kuhusu njia ya uanachama wa Somalia"
+            },
+            "primary": {
+                "en": "Membership timeline",
+                "so": "Taariikhda xubinnimada",
+                "sw": "Ratiba ya uanachama"
+            },
+            "primaryHref": "somalia-in-eac/timeline",
+            "secondary": {
+                "en": "View integration tracker",
+                "so": "Eeg raadinta isku-dhafka",
+                "sw": "Tazama kifuatiliaji cha ujumuishaji"
+            },
+            "secondaryHref": "tracker"
+        },
+        {
+            "id": "state-minister-eac-meetings",
+            "enabled": true,
+            "sort": 3,
+            "image": "assets/images/sonna-8N5A6490EAC.jpg",
+            "fit": "cover",
+            "crop": { "x": 50, "y": 58 },
+            "eyebrow": {
+                "en": "EAC Affairs",
+                "so": "Arrimaha EAC",
+                "sw": "Masuala ya EAC"
+            },
+            "title": {
+                "en": "State Minister advances Somalia's integration at EAC high-level meetings",
+                "so": "Wasiirka Gobolka oo horumarinaya isku-dhafka Soomaaliya ee shirarka sare ee EAC",
+                "sw": "Waziri wa Nchi anaendeleza ujumuishaji wa Somalia katika mikutano ya ngazi ya juu ya EAC"
+            },
+            "text": {
+                "en": "H.E. Ali Mohamed Omar leads Somalia's engagement on the integration roadmap, passport alignment and regional cooperation across Partner States.",
+                "so": "Mudane Cali Maxamed Cumar ayaa hogaaminaya ka-qaybgalka Soomaaliya ee khariidadda isku-dhafka, iswaafajinta baasaboorka iyo iskaashiga gobolka.",
+                "sw": "Mhe. Ali Mohamed Omar anaongoza ushiriki wa Somalia kuhusu ramani ya ujumuishaji, kuoanisha pasipoti na ushirikiano wa kikanda."
+            },
+            "alt": {
+                "en": "Somalia delegation at East African Community high-level meetings",
+                "so": "Waftiga Soomaaliya ee shirarka sare ee Bulshada Bariga Afrika",
+                "sw": "Ujumbe wa Somalia katika mikutano ya ngazi ya juu ya Jumuiya ya Afrika Mashariki"
+            },
+            "primary": {
+                "en": "Meet the State Minister",
+                "so": "La kulmo Wasiirka Gobolka",
+                "sw": "Kutana na Waziri wa Nchi"
+            },
+            "primaryHref": "somalia-in-eac/leadership",
+            "secondary": {
+                "en": "Read the update",
+                "so": "Akhri cusbooneysiinta",
+                "sw": "Soma taarifa"
+            },
+            "secondaryHref": "news/somalia-eac-high-level-meetings"
+        }
+    ]
+}

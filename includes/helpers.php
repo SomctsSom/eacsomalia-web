@@ -55,6 +55,18 @@ function format_date(string $date): string
     return date('j M Y', $ts);
 }
 
+/** Build CSS object-position / object-fit from hero.json crop (x/y 0–100). */
+function hero_image_style(array $slide): string
+{
+    $x = max(0.0, min(100.0, (float) ($slide['crop']['x'] ?? 50)));
+    $y = max(0.0, min(100.0, (float) ($slide['crop']['y'] ?? 30)));
+    $fit = strtolower((string) ($slide['fit'] ?? 'cover'));
+    if (!in_array($fit, ['cover', 'contain', 'fill', 'none', 'scale-down'], true)) {
+        $fit = 'cover';
+    }
+    return 'object-fit:' . $fit . ';object-position:' . $x . '% ' . $y . '%';
+}
+
 function event_parts(string $date): array
 {
     $ts = strtotime($date);
