@@ -326,13 +326,14 @@ html[data-text="l"] { font-size: 18px; }
 .page-home .hero h1 {
   font-family: Inter, Segoe UI, Arial, sans-serif;
   font-weight: 700;
-  font-size: clamp(18px, 2.2vw, 28px);
+  font-size: clamp(17px, 2vw, 26px);
   line-height: 1.25;
   letter-spacing: -.01em;
   margin: 0 auto;
-  max-width: 30ch;
+  max-width: min(46ch, 92vw);
   text-align: center;
   text-shadow: 0 2px 18px #041426cc;
+  text-wrap: balance;
 }
 
 .page-home .hero h1 a {
