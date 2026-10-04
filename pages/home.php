@@ -24,11 +24,8 @@ $events = $site['events'] ?? [];
             <div class="hero-content">
                 <div class="container">
                     <div class="hero-copy">
-                        <h1><?= Router::e(loc($slide['title'] ?? '')) ?></h1>
-                        <div class="btns">
-                            <a class="btn primary" href="<?= Router::e(url($slide['primaryHref'] ?? '')) ?>"><?= Router::e(loc($slide['primary'] ?? '')) ?> ›</a>
-                            <a class="btn ghost" href="<?= Router::e(url($slide['secondaryHref'] ?? '')) ?>"><?= Router::e(loc($slide['secondary'] ?? '')) ?> ›</a>
-                        </div>
+                        <?php $heroHref = (string) ($slide['primaryHref'] ?? $slide['secondaryHref'] ?? ''); ?>
+                        <h1><a href="<?= Router::e(url($heroHref)) ?>"><?= Router::e(loc($slide['title'] ?? '')) ?></a></h1>
                     </div>
                 </div>
             </div>

@@ -292,49 +292,48 @@ html[data-text="l"] { font-size: 18px; }
   object-position: center 30%; /* per-slide override via inline imagePosition */
 }
 
-/* Lighter overlay so the photo shows through */
+/* Lighter overlay; stronger at the bottom title band */
 .page-home .slide:after {
-  background: linear-gradient(90deg, #041426b8 0%, #061c3470 42%, #061c3428 72%, transparent 100%);
+  background: linear-gradient(180deg, #04142622 0%, #04142633 48%, #041426d4 100%);
 }
 
 .page-home .hero-content {
-  align-items: center;
-  padding-top: 2rem;
+  align-items: flex-end;
+  padding-top: 0;
+  padding-bottom: 52px;
 }
 
 .page-home .hero-copy {
-  width: min(520px, 78%);
-  margin-top: 2.5rem;
+  width: min(720px, 90%);
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .page-home .hero h1 {
   font-family: Inter, Segoe UI, Arial, sans-serif;
   font-weight: 700;
-  font-size: clamp(22px, 2.8vw, 34px);
-  line-height: 1.2;
+  font-size: clamp(18px, 2.2vw, 28px);
+  line-height: 1.25;
   letter-spacing: -.01em;
-  margin: 0 0 16px;
-  max-width: 18ch;
+  margin: 0;
+  max-width: none;
   text-shadow: 0 2px 16px #041426aa;
 }
 
-.page-home .hero .btns {
-  margin-top: 0;
-  gap: 8px;
-}
-
-.page-home .hero .btn {
-  padding: 9px 14px;
-  font-size: 13px;
-  border-radius: 4px;
-}
-
-.page-home .hero .btn.primary {
-  background: var(--navy);
+.page-home .hero h1 a {
   color: #fff;
 }
 
-.page-home .hero .btn.ghost,
+.page-home .hero h1 a:hover {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.page-home .hero-dots {
+  bottom: 58px;
+}
+
 .btn.ghost {
   background: transparent;
   color: #fff;
