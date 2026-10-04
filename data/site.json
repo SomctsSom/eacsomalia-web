@@ -1,0 +1,677 @@
+{
+    "site": {
+        "name": "Somalia EAC Affairs",
+        "domain": "qa.eacsomalia.gov.so",
+        "tagline": {
+            "en": "Somalia in the East African Community",
+            "so": "Soomaaliya ee Bulshada Bariga Afrika",
+            "sw": "Somalia katika Jumuiya ya Afrika Mashariki"
+        },
+        "languages": [
+            "EN",
+            "SO",
+            "SW"
+        ],
+        "lastUpdated": "2026-08-17"
+    },
+    "hero": [
+        {
+            "eyebrow": {
+                "en": "Stronger together",
+                "so": "Wada xoog badan",
+                "sw": "Pamoja tuna nguvu"
+            },
+            "title": {
+                "en": "Somalia in the East African Community",
+                "so": "Soomaaliya ee Bulshada Bariga Afrika",
+                "sw": "Somalia katika Jumuiya ya Afrika Mashariki"
+            },
+            "text": {
+                "en": "Building peace, prosperity and a shared future through regional integration, free movement and sustainable economic growth.",
+                "so": "Dhisidda nabad, barwaaqo iyo mustaqbal wadaag ah iyadoo loo marayo isku-dhafka gobolka, dhaqdhaqaaqa xorta ah iyo koboca dhaqaale ee waara.",
+                "sw": "Kujenga amani, ustawi na mustakabali wa pamoja kupitia ujumuishaji wa kikanda, uhuru wa kutembea na ukuaji endelevu wa uchumi."
+            },
+            "image": "assets/images/eac-president-ready-02.jpg",
+            "alt": {
+                "en": "H.E. President Hassan Sheikh Mohamud with the EAC Secretary General holding the Treaty for the Establishment of the East African Community",
+                "so": "Mudane Madaxweyne Xasan Sheekh Maxamuud oo ay weheliyaan Xoghayaha Guud ee EAC iyagoo haysta Heshiiska Aasaaska Bulshada Bariga Afrika",
+                "sw": "Mhe. Rais Hassan Sheikh Mohamud pamoja na Katibu Mkuu wa EAC wakiwa wameshika Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki"
+            },
+            "primary": {
+                "en": "About Somalia in EAC",
+                "so": "Soomaaliya ee EAC",
+                "sw": "Kuhusu Somalia katika EAC"
+            },
+            "primaryHref": "somalia-in-eac/what-membership-means",
+            "secondary": {
+                "en": "EAC Membership Benefits",
+                "so": "Faa'iidooyinka xubinnimada",
+                "sw": "Manufaa ya uanachama wa EAC"
+            },
+            "secondaryHref": "somalia-in-eac/membership"
+        },
+        {
+            "eyebrow": {
+                "en": "Partner State",
+                "so": "Xubin wadaag",
+                "sw": "Nchi Mshirika"
+            },
+            "title": {
+                "en": "Somalia is the 8th EAC Partner State",
+                "so": "Soomaaliya waa xubinta 8aad ee EAC",
+                "sw": "Somalia ni Nchi Mshirika ya 8 ya EAC"
+            },
+            "text": {
+                "en": "A national gateway for integration progress, trade services, citizen mobility and Somalia's voice in regional institutions.",
+                "so": "Albaab qaran oo loogu talagalay horumarka isku-dhafka, adeegyada ganacsiga, dhaqdhaqaaqa muwaadiniinta iyo codka Soomaaliya ee hay'adaha gobolka.",
+                "sw": "Lango la taifa la maendeleo ya ujumuishaji, huduma za biashara, uhamaji wa wananchi na sauti ya Somalia katika taasisi za kikanda."
+            },
+            "image": "assets/images/eac-president-ready.jpg",
+            "alt": {
+                "en": "President Hassan Sheikh Mohamud meets EAC leadership on Somalia's accession path",
+                "so": "Madaxweyne Xasan Sheekh Maxamuud oo la kulmay hogaanka EAC ee dariiqa xubinnimada Soomaaliya",
+                "sw": "Rais Hassan Sheikh Mohamud akikutana na uongozi wa EAC kuhusu njia ya uanachama wa Somalia"
+            },
+            "primary": {
+                "en": "Membership timeline",
+                "so": "Taariikhda xubinnimada",
+                "sw": "Ratiba ya uanachama"
+            },
+            "primaryHref": "somalia-in-eac/timeline",
+            "secondary": {
+                "en": "View integration tracker",
+                "so": "Eeg raadinta isku-dhafka",
+                "sw": "Tazama kifuatiliaji cha ujumuishaji"
+            },
+            "secondaryHref": "tracker"
+        },
+        {
+            "eyebrow": {
+                "en": "EAC Affairs",
+                "so": "Arrimaha EAC",
+                "sw": "Masuala ya EAC"
+            },
+            "title": {
+                "en": "State Minister advances Somalia's integration at EAC high-level meetings",
+                "so": "Wasiirka Gobolka oo horumarinaya isku-dhafka Soomaaliya ee shirarka sare ee EAC",
+                "sw": "Waziri wa Nchi anaendeleza ujumuishaji wa Somalia katika mikutano ya ngazi ya juu ya EAC"
+            },
+            "text": {
+                "en": "H.E. Ali Mohamed Omar leads Somalia's engagement on the integration roadmap, passport alignment and regional cooperation across Partner States.",
+                "so": "Mudane Cali Maxamed Cumar ayaa hogaaminaya ka-qaybgalka Soomaaliya ee khariidadda isku-dhafka, iswaafajinta baasaboorka iyo iskaashiga gobolka.",
+                "sw": "Mhe. Ali Mohamed Omar anaongoza ushiriki wa Somalia kuhusu ramani ya ujumuishaji, kuoanisha pasipoti na ushirikiano wa kikanda."
+            },
+            "image": "assets/images/sonna-8N5A6490EAC.jpg",
+            "alt": {
+                "en": "Somalia delegation at East African Community high-level meetings",
+                "so": "Waftiga Soomaaliya ee shirarka sare ee Bulshada Bariga Afrika",
+                "sw": "Ujumbe wa Somalia katika mikutano ya ngazi ya juu ya Jumuiya ya Afrika Mashariki"
+            },
+            "primary": {
+                "en": "Meet the State Minister",
+                "so": "La kulmo Wasiirka Gobolka",
+                "sw": "Kutana na Waziri wa Nchi"
+            },
+            "primaryHref": "somalia-in-eac/leadership",
+            "secondary": {
+                "en": "Read the update",
+                "so": "Akhri cusbooneysiinta",
+                "sw": "Soma taarifa"
+            },
+            "secondaryHref": "news/somalia-eac-high-level-meetings"
+        }
+    ],
+    "quickActions": [
+        {
+            "icon": "trade",
+            "title": {
+                "en": "Trade & Business",
+                "so": "Ganacsi & Maalgashi",
+                "sw": "Biashara na Uwekezaji"
+            },
+            "text": {
+                "en": "Export, import & investment",
+                "so": "Dhoofin, soo-dejin & maalgashi",
+                "sw": "Mauzo nje, uagizaji na uwekezaji"
+            },
+            "href": "business/trading"
+        },
+        {
+            "icon": "travel",
+            "title": {
+                "en": "Travel & Mobility",
+                "so": "Safar & Dhaqdhaqaaq",
+                "sw": "Safari na Uhamaji"
+            },
+            "text": {
+                "en": "Visa, movement & residency",
+                "so": "Fiiso, dhaqdhaqaaq & degenaansho",
+                "sw": "Visa, uhamaji na makazi"
+            },
+            "href": "citizens/travel-passport"
+        },
+        {
+            "icon": "students",
+            "title": {
+                "en": "Students & Youth",
+                "so": "Ardayda & Dhallinyarada",
+                "sw": "Wanafunzi na Vijana"
+            },
+            "text": {
+                "en": "Scholarships & programmes",
+                "so": "Deeqo iyo barnaamijyo",
+                "sw": "Udhamini na programu"
+            },
+            "href": "citizens/study"
+        },
+        {
+            "icon": "citizens",
+            "title": {
+                "en": "Citizens",
+                "so": "Muwaadiniinta",
+                "sw": "Wananchi"
+            },
+            "text": {
+                "en": "Rights, services & support",
+                "so": "Xuquuq, adeegyo & taageero",
+                "sw": "Haki, huduma na msaada"
+            },
+            "href": "citizens/consultations"
+        },
+        {
+            "icon": "barrier",
+            "title": {
+                "en": "Report a Barrier",
+                "so": "Soo sheeg caqabad",
+                "sw": "Ripoti kizuizi"
+            },
+            "text": {
+                "en": "Trade or movement issues",
+                "so": "Arrimaha ganacsiga ama dhaqdhaqaaqa",
+                "sw": "Masuala ya biashara au uhamaji"
+            },
+            "href": "business/report-ntb"
+        }
+    ],
+    "tracker": {
+        "updated": "17 Aug 2026",
+        "items": [
+            {
+                "pillar": {
+                    "en": "Customs Union",
+                    "so": "Ururka Kastamka",
+                    "sw": "Muungano wa Forodha"
+                },
+                "progress": 75,
+                "tone": "blue",
+                "status": {
+                    "en": "On track",
+                    "so": "Waa ku socotaa",
+                    "sw": "Inaenda sawa"
+                },
+                "note": {
+                    "en": "Trade facilitation, tariff alignment and NTB actions",
+                    "so": "Fududaynta ganacsiga, iswaafajinta canshuuraha iyo tallaabooyinka NTB",
+                    "sw": "Uwezeshaji wa biashara, kuoanisha ushuru na hatua za NTB"
+                },
+                "owner": {
+                    "en": "Ministry of Commerce & Industry (sample)",
+                    "so": "Wasaaradda Ganacsiga & Warshadaha (tijaabo)",
+                    "sw": "Wizara ya Biashara na Viwanda (mfano)"
+                },
+                "deadline": "2027-12-31",
+                "source": {
+                    "en": "EAC Customs Union Protocol (2004)",
+                    "so": "Borotokoolka Ururka Kastamka ee EAC (2004)",
+                    "sw": "Itifaki ya Muungano wa Forodha wa EAC (2004)"
+                },
+                "lastVerified": "2026-08-17"
+            },
+            {
+                "pillar": {
+                    "en": "Common Market",
+                    "so": "Suuqa Wadaagga",
+                    "sw": "Soko la Pamoja"
+                },
+                "progress": 60,
+                "tone": "green",
+                "status": {
+                    "en": "In progress",
+                    "so": "Waa socotaa",
+                    "sw": "Inaendelea"
+                },
+                "note": {
+                    "en": "Mobility, labour and service-market alignment",
+                    "so": "Dhaqdhaqaaqa, shaqada iyo iswaafajinta suuqa adeegyada",
+                    "sw": "Uhamaji, kazi na kuoanisha soko la huduma"
+                },
+                "owner": {
+                    "en": "Ministry of Labour & Social Affairs (sample)",
+                    "so": "Wasaaradda Shaqada & Arrimaha Bulshada (tijaabo)",
+                    "sw": "Wizara ya Kazi na Mambo ya Jamii (mfano)"
+                },
+                "deadline": "2028-06-30",
+                "source": {
+                    "en": "EAC Common Market Protocol (2009)",
+                    "so": "Borotokoolka Suuqa Wadaagga ee EAC (2009)",
+                    "sw": "Itifaki ya Soko la Pamoja la EAC (2009)"
+                },
+                "lastVerified": "2026-08-17"
+            },
+            {
+                "pillar": {
+                    "en": "Monetary Union",
+                    "so": "Ururka Lacagta",
+                    "sw": "Muungano wa Fedha"
+                },
+                "progress": 40,
+                "tone": "gold",
+                "status": {
+                    "en": "Early stage",
+                    "so": "Waji hore",
+                    "sw": "Hatua ya awali"
+                },
+                "note": {
+                    "en": "Policy and institutional alignment",
+                    "so": "Iswaafajinta siyaasadda iyo hay'adaha",
+                    "sw": "Kuoanisha sera na taasisi"
+                },
+                "owner": {
+                    "en": "Central Bank of Somalia / Ministry of Finance (sample)",
+                    "so": "Bangiga Dhexe / Wasaaradda Maaliyadda (tijaabo)",
+                    "sw": "Benki Kuu ya Somalia / Wizara ya Fedha (mfano)"
+                },
+                "deadline": "2031-12-31",
+                "source": {
+                    "en": "EAC Monetary Union Protocol (2013)",
+                    "so": "Borotokoolka Ururka Lacagta ee EAC (2013)",
+                    "sw": "Itifaki ya Muungano wa Fedha wa EAC (2013)"
+                },
+                "lastVerified": "2026-08-17"
+            },
+            {
+                "pillar": {
+                    "en": "Political Confederation",
+                    "so": "Federaalka Siyaasadeed",
+                    "sw": "Shirikisho la Kisiasa"
+                },
+                "progress": 25,
+                "tone": "red",
+                "status": {
+                    "en": "Consultative",
+                    "so": "Wadatashi",
+                    "sw": "Inashauriana"
+                },
+                "note": {
+                    "en": "National consultations and legal review",
+                    "so": "Wadatashiyo qaran iyo dib-u-eegis sharci",
+                    "sw": "Mashauriano ya kitaifa na mapitio ya kisheria"
+                },
+                "owner": {
+                    "en": "Ministry of Foreign Affairs & International Cooperation (sample)",
+                    "so": "Wasaaradda Arrimaha Dibadda & Iskaashiga Caalamiga (tijaabo)",
+                    "sw": "Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa (mfano)"
+                },
+                "deadline": "2030-12-31",
+                "source": {
+                    "en": "Treaty for the Establishment of the EAC (1999)",
+                    "so": "Heshiiska Aasaaska EAC (1999)",
+                    "sw": "Mkataba wa Kuanzisha EAC (1999)"
+                },
+                "lastVerified": "2026-08-17"
+            }
+        ]
+    },
+    "leadership": {
+        "name": "Hon. Ali Mohamed Omar (Ali Balcad)",
+        "role": {
+            "en": "State Minister for Foreign Affairs & International Cooperation — in charge of EAC Affairs",
+            "so": "Wasiirka Gobolka ee Arrimaha Dibadda & Iskaashiga Caalamiga — u xaadhaya Arrimaha EAC",
+            "sw": "Waziri wa Nchi wa Mambo ya Nje na Ushirikiano wa Kimataifa — msimamizi wa Masuala ya EAC"
+        },
+        "bio": {
+            "en": "State Minister leading Somalia's political coordination on East African Community affairs. The QA prototype gives his EAC mandate high visibility while keeping the platform institution-led and service-focused.",
+            "so": "Wasiirka Gobolka ee hogaaminaya isku-duwidda siyaasadeed ee Soomaaliya ee arrimaha Bulshada Bariga Afrika. Tijaabada QA waxay siinaysaa waajibaadkiisa EAC muuqaal sare, iyadoo mareeggu yahay mid hay'ad ku hoggaamisa oo adeegga u hiilinaya.",
+            "sw": "Waziri wa Nchi anayeongoza uratibu wa kisiasa wa Somalia kuhusu Jumuiya ya Afrika Mashariki. Mfumo wa QA unaweka wazi wajibu wake wa EAC huku ukiendelea kuongozwa na taasisi na kuzingatia huduma."
+        },
+        "image": "assets/images/ali-balcad.jpg",
+        "officialProfile": "https://web.mfa.gov.so/st-minister-incharge-of-eac/"
+    },
+    "news": [
+        {
+            "slug": "somalia-eac-high-level-meetings",
+            "category": {
+                "en": "EAC Affairs",
+                "so": "Arrimaha EAC",
+                "sw": "Masuala ya EAC"
+            },
+            "date": "2025-09-05",
+            "image": "assets/images/sonna-8N5A6490EAC.jpg",
+            "title": {
+                "en": "Somalia solidifies integration into the East African Community at high-level meetings",
+                "so": "Soomaaliya waxay xoojinaysaa isku-dhafka EAC ee shirarka heerka sare",
+                "sw": "Somalia inaimarisha ujumuishaji wake katika Jumuiya ya Afrika Mashariki kupitia mikutano ya ngazi ya juu"
+            },
+            "summary": {
+                "en": "State Minister H.E. Ali Mohamed Omar leads Somalia's delegation at EAC Council meetings on the integration roadmap, Secretariat recruitment and passport standards.",
+                "so": "Wasiirka Gobolka Mudane Cali Maxamed Cumar ayaa hogaaminaya waftiga Soomaaliya ee shirarka Golaha EAC ee khariidadda isku-dhafka, shaqaalaynta Xoghaynta iyo heerarka baasaboorka.",
+                "sw": "Waziri wa Nchi Mhe. Ali Mohamed Omar anaongoza ujumbe wa Somalia katika mikutano ya Baraza la EAC kuhusu ramani ya ujumuishaji, ajira za Sekretarieti na viwango vya pasipoti."
+            },
+            "body": {
+                "en": "<p>Somalia continues to deepen its EAC engagement as a high-level delegation led by State Minister of Foreign Affairs and Minister for EAC Affairs, H.E. Ali Mohamed Omar, takes part in Sectoral Council and Council of Ministers meetings.</p><p>Agenda items include Somalia's integration roadmap, recruitment of Somali nationals into the EAC Secretariat, alignment of the national passport with EAC standards, and progress on non-tariff barriers.</p><p>Source: <a href=\"https://sonna.so/en/article/somalia-solidifies-integration-into-east-african-community-at-high-level-meetings\" target=\"_blank\" rel=\"noopener\">SONNA</a>. Photo credit: SONNA / MFA EAC Affairs coverage.</p>",
+                "so": "<p>Soomaaliya waxay sii wadaysaa xoojinta ka-qaybgalka EAC iyadoo wafti heer sare ah oo uu hogaaminayo Wasiirka Gobolka ee Arrimaha Dibadda & Arrimaha EAC, Mudane Cali Maxamed Cumar, ka qaybgalayo shirarka Golaha Wasiirrada.</p><p>Ajendaha waxaa ka mid ah khariidadda isku-dhafka, shaqaalaynta Soomaalida ee Xoghaynta EAC, iswaafajinta baasaboorka, iyo caqabadaha aan canshuuraha ahayn.</p><p>Ilaha: <a href=\"https://sonna.so/en/article/somalia-solidifies-integration-into-east-african-community-at-high-level-meetings\" target=\"_blank\" rel=\"noopener\">SONNA</a>.</p>",
+                "sw": "<p>Somalia inaendelea kuimarisha ushiriki wake katika EAC huku ujumbe wa ngazi ya juu ukiongozwa na Waziri wa Nchi wa Mambo ya Nje na Masuala ya EAC, Mhe. Ali Mohamed Omar, ukishiriki mikutano ya Baraza la Mawaziri.</p><p>Ajenda inajumuisha ramani ya ujumuishaji, ajira za raia wa Somalia katika Sekretarieti ya EAC, kuoanisha pasipoti, na vizuizi visivyo vya ushuru.</p><p>Chanzo: <a href=\"https://sonna.so/en/article/somalia-solidifies-integration-into-east-african-community-at-high-level-meetings\" target=\"_blank\" rel=\"noopener\">SONNA</a>.</p>"
+            }
+        },
+        {
+            "slug": "president-ready-to-join-eac",
+            "category": {
+                "en": "Presidency",
+                "so": "Madaxtooyada",
+                "sw": "Urais"
+            },
+            "date": "2022-10-26",
+            "image": "assets/images/eac-president-ready-02.jpg",
+            "title": {
+                "en": "We are ready to join the Community, Somalia President says",
+                "so": "Waxaan diyaar u nahay inaan ku biirno Bulshada, ayuu yiri Madaxweynaha Soomaaliya",
+                "sw": "Tuko tayari kujiunga na Jumuiya, Rais wa Somalia anasema"
+            },
+            "summary": {
+                "en": "H.E. President Hassan Sheikh Mohamud urged the EAC to fast-track Somalia's admission during the Secretary General's visit to Mogadishu.",
+                "so": "Mudane Madaxweyne Xasan Sheekh Maxamuud wuxuu ku booriyay EAC inay dedejiso aqbalidda Soomaaliya intii uu Xoghayaha Guud ku sugnaa Muqdisho.",
+                "sw": "Mhe. Rais Hassan Sheikh Mohamud alihimiza EAC kuharakisha uanachama wa Somalia wakati wa ziara ya Katibu Mkuu mjini Mogadishu."
+            },
+            "body": {
+                "en": "<p>During the EAC Secretary General's maiden visit to Mogadishu, H.E. President Hassan Sheikh Mohamud called for fast-tracking Somalia's verification and admission process so that Somalia could become the eighth Partner State.</p><p>The President highlighted Somalia's historic, cultural and commercial links with East Africa, and the strategic value of Somalia's coastline and blue economy for the wider Community.</p><p>Source: <a href=\"https://www.eac.int/press-releases/151-international-relations/2624-we-are-ready-to-join-the-community%2C-somalia-president-says\" target=\"_blank\" rel=\"noopener\">EAC Secretariat press release</a>. Photo credit: EAC Secretariat.</p>",
+                "so": "<p>Intii uu Xoghayaha Guud ee EAC booqashadiisii ugu horreysay ku yimid Muqdisho, Mudane Madaxweyne Xasan Sheekh Maxamuud wuxuu ku baaqay in la dedejiyo habka xaqiijinta iyo aqbalidda si Soomaaliya u noqoto xubinta 8aad.</p><p>Madaxweynaha wuxuu xusay xiriirrada taariikheed, dhaqanka iyo ganacsiga ee Bariga Afrika, iyo qiimaha xeebaha iyo dhaqaalaha buluugga ah.</p><p>Ilaha: <a href=\"https://www.eac.int/press-releases/151-international-relations/2624-we-are-ready-to-join-the-community%2C-somalia-president-says\" target=\"_blank\" rel=\"noopener\">EAC Secretariat</a>.</p>",
+                "sw": "<p>Wakati wa ziara ya kwanza ya Katibu Mkuu wa EAC mjini Mogadishu, Mhe. Rais Hassan Sheikh Mohamud alitaka kuharakishwa kwa uthibitishaji na uanachama ili Somalia iwe Nchi Mshirika ya nane.</p><p>Rais alisisitiza uhusiano wa kihistoria, kitamaduni na kibiashara na Afrika Mashariki, pamoja na umuhimu wa pwani na uchumi wa bluu.</p><p>Chanzo: <a href=\"https://www.eac.int/press-releases/151-international-relations/2624-we-are-ready-to-join-the-community%2C-somalia-president-says\" target=\"_blank\" rel=\"noopener\">EAC Secretariat</a>.</p>"
+            }
+        },
+        {
+            "slug": "regional-delegation-engagement",
+            "category": {
+                "en": "Regional cooperation",
+                "so": "Iskaashiga gobolka",
+                "sw": "Ushirikiano wa kikanda"
+            },
+            "date": "2025-09-01",
+            "image": "assets/images/eac-delegation-nairobi.jpg",
+            "title": {
+                "en": "Somali officials deepen Partner State engagement across East Africa",
+                "so": "Mas'uuliyiinta Soomaaliyeed oo xoojinaya iskaashiga Dawladaha EAC",
+                "sw": "Maafisa wa Somalia wanaimarisha ushirikiano na Nchi Washirika Afrika Mashariki"
+            },
+            "summary": {
+                "en": "Officials representing Somalia continue working-level engagement with Partner States on trade, mobility and institutional cooperation.",
+                "so": "Mas'uuliyiinta matalaya Soomaaliya waxay sii wadaan wadahadalada heerka shaqada ee ganacsiga, dhaqdhaqaaqa iyo iskaashiga hay'adaha.",
+                "sw": "Maafisa wanaowakilisha Somalia wanaendelea na ushirikiano wa kiufundi kuhusu biashara, uhamaji na ushirikiano wa kitaasisi."
+            },
+            "body": {
+                "en": "<p>Somalia's EAC Affairs teams continue technical and political engagement with Partner States to implement accession commitments and open practical pathways for traders, students and institutions.</p><p>Related services on this portal include the integration tracker, trade guidance and citizen mobility pages.</p>",
+                "so": "<p>Kooxaha Arrimaha EAC ee Soomaaliya waxay sii wadaan iskaashi farsamo iyo siyaasadeed si loo hirgeliyo ballanqaadyada xubinnimada una furmo dariiqyo ganacsatada, ardayda iyo hay'adaha.</p><p>Adeegyada la xidhiidha waxaa ka mid ah raadinta isku-dhafka, tilmaanta ganacsiga iyo bogagga dhaqdhaqaaqa.</p>",
+                "sw": "<p>Timu za Masuala ya EAC za Somalia zinaendelea na ushirikiano wa kiufundi na kisiasa ili kutekeleza ahadi za uanachama na kufungua njia kwa wafanyabiashara, wanafunzi na taasisi.</p><p>Huduma zinazohusiana ni kifuatiliaji cha ujumuishaji, mwongozo wa biashara na kurasa za uhamaji.</p>"
+            }
+        }
+    ],
+    "events": [
+        {
+            "date": "2026-08-20",
+            "title": {
+                "en": "EAC Business Forum 2026",
+                "so": "Madasha Ganacsiga EAC 2026",
+                "sw": "Jukwaa la Biashara la EAC 2026"
+            },
+            "place": {
+                "en": "Mogadishu, Somalia",
+                "so": "Muqdisho, Soomaaliya",
+                "sw": "Mogadishu, Somalia"
+            }
+        },
+        {
+            "date": "2026-09-04",
+            "title": {
+                "en": "Customs Union technical workshop",
+                "so": "Tababbarka farsamada ee Ururka Kastamka",
+                "sw": "Warsha ya kiufundi ya Muungano wa Forodha"
+            },
+            "place": {
+                "en": "Arusha, Tanzania",
+                "so": "Arusha, Tansaaniya",
+                "sw": "Arusha, Tanzania"
+            }
+        },
+        {
+            "date": "2026-09-18",
+            "title": {
+                "en": "Youth and mobility consultation",
+                "so": "Wadatashiga dhallinyarada iyo dhaqdhaqaaqa",
+                "sw": "Mashauriano ya vijana na uhamaji"
+            },
+            "place": {
+                "en": "Mogadishu, Somalia",
+                "so": "Muqdisho, Soomaaliya",
+                "sw": "Mogadishu, Somalia"
+            }
+        }
+    ],
+    "opportunities": [
+        {
+            "slug": "eac-regional-scholarship",
+            "type": {
+                "en": "Scholarship",
+                "so": "Deeq waxbarasho",
+                "sw": "Udhamini"
+            },
+            "title": {
+                "en": "Sample EAC Regional Scholarship Call",
+                "so": "Tijaabo: Deeqda waxbarasho ee gobolka EAC",
+                "sw": "Mfano: Wito wa udhamini wa kikanda wa EAC"
+            },
+            "deadline": "2026-09-14",
+            "eligibility": {
+                "en": "Somali nationals — sample listing",
+                "so": "Muwaadiniinta Soomaaliyeed — diiwaan tijaabo ah",
+                "sw": "Raia wa Somalia — tangazo la mfano"
+            },
+            "summary": {
+                "en": "Sample scholarship call for study at an EAC Partner State institution. Replace with an approved official listing.",
+                "so": "Wicitaan deeq waxbarasho oo tijaabo ah. Ku beddel diiwaan rasmi ah oo la oggolaaday.",
+                "sw": "Wito wa mfano wa udhamini wa kusoma katika taasisi ya Nchi Mshirika ya EAC. Badilisha na tangazo rasmi lililoidhinishwa."
+            }
+        },
+        {
+            "slug": "regional-programme-officer",
+            "type": {
+                "en": "Vacancy",
+                "so": "Boos shaqo",
+                "sw": "Nafasi ya kazi"
+            },
+            "title": {
+                "en": "Sample Regional Programme Officer Opportunity",
+                "so": "Tijaabo: Sarkaalka barnaamijka gobolka",
+                "sw": "Mfano: Nafasi ya Afisa wa Programu ya Kikanda"
+            },
+            "deadline": "2026-09-02",
+            "eligibility": {
+                "en": "EAC Partner State nationals — sample listing",
+                "so": "Muwaadiniinta dawladaha EAC — diiwaan tijaabo ah",
+                "sw": "Raia wa Nchi Washirika za EAC — tangazo la mfano"
+            },
+            "summary": {
+                "en": "Sample vacancy to demonstrate how regional professional opportunities will appear on this site.",
+                "so": "Boos shaqo tijaabo ah oo muujinaya sida fursadaha xirfadeed ee gobolka loogu soo bandhigi doono.",
+                "sw": "Nafasi ya mfano inayoonyesha jinsi fursa za kitaalamu za kikanda zitakavyoonekana kwenye tovuti hii."
+            }
+        },
+        {
+            "slug": "trade-facilitation-consultancy",
+            "type": {
+                "en": "Tender",
+                "so": "Qandaraas",
+                "sw": "Zabuni"
+            },
+            "title": {
+                "en": "Sample Consultancy: Regional Trade Facilitation",
+                "so": "Tijaabo: La-talin fududaynta ganacsiga gobolka",
+                "sw": "Mfano wa ushauri: Uwezeshaji wa biashara ya kikanda"
+            },
+            "deadline": "2026-08-31",
+            "eligibility": {
+                "en": "Qualified firms — sample listing",
+                "so": "Shirkadaha u qalma — diiwaan tijaabo ah",
+                "sw": "Makampuni yanayostahili — tangazo la mfano"
+            },
+            "summary": {
+                "en": "Sample consultancy notice for trade-facilitation technical assistance. Not an official tender.",
+                "so": "Ogeysiis la-talin tijaabo ah. Ma aha qandaraas rasmi ah.",
+                "sw": "Tangazo la mfano la ushauri wa kiufundi wa uwezeshaji wa biashara. Sio zabuni rasmi."
+            }
+        }
+    ],
+    "documents": [
+        {
+            "type": {
+                "en": "Treaty",
+                "so": "Heshiis",
+                "sw": "Mkataba"
+            },
+            "title": {
+                "en": "Treaty for the Establishment of the East African Community",
+                "so": "Heshiiska Aasaaska Bulshada Bariga Afrika",
+                "sw": "Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki"
+            },
+            "year": "1999",
+            "lang": "EN",
+            "source": {
+                "en": "EAC Secretariat",
+                "so": "Xoghaynta EAC",
+                "sw": "Sekretarieti ya EAC"
+            },
+            "summary": {
+                "en": "Founding treaty of the EAC. Official copies should be linked from the EAC e-Library in production.",
+                "so": "Heshiiska aasaaska EAC. Nuqullada rasmiga ah waa in laga xidhiidhiyaa e-Library EAC.",
+                "sw": "Mkataba wa kuanzisha Jumuiya ya Afrika Mashariki. Nakala rasmi zitaunganishwa kutoka e-Library ya EAC katika toleo la uzalishaji."
+            },
+            "url": "https://www.eac.int/resources"
+        },
+        {
+            "type": {
+                "en": "Protocol",
+                "so": "Borotokool",
+                "sw": "Itifaki"
+            },
+            "title": {
+                "en": "Customs Union Protocol",
+                "so": "Borotokoolka Ururka Kastamka",
+                "sw": "Itifaki ya Muungano wa Forodha"
+            },
+            "year": "2004",
+            "lang": "EN",
+            "source": {
+                "en": "EAC Secretariat",
+                "so": "Xoghaynta EAC",
+                "sw": "Sekretarieti ya EAC"
+            },
+            "summary": {
+                "en": "Protocol governing the EAC Customs Union, including a common external tariff framework.",
+                "so": "Borotokoolka maamula Ururka Kastamka ee EAC, oo ay ku jirto qaabka canshuurta dibadda ee wadaagga.",
+                "sw": "Itifaki inayosimamia Muungano wa Forodha wa EAC, ikiwemo mfumo wa ushuru wa nje wa pamoja."
+            },
+            "url": "https://www.eac.int/resources"
+        },
+        {
+            "type": {
+                "en": "National",
+                "so": "Qaran",
+                "sw": "Kitaifa"
+            },
+            "title": {
+                "en": "Sample Somalia EAC Integration Roadmap Summary",
+                "so": "Tijaabo: Soo-koobidda khariidadda isku-dhafka EAC ee Soomaaliya",
+                "sw": "Mfano: Muhtasari wa ramani ya ujumuishaji wa Somalia katika EAC"
+            },
+            "year": "2026",
+            "lang": "EN/SO",
+            "source": {
+                "en": "QA sample",
+                "so": "Tijaabo QA",
+                "sw": "Mfano wa QA"
+            },
+            "summary": {
+                "en": "Placeholder national summary used only in this QA prototype.",
+                "so": "Soo-koobid qaran oo meel-hayn ah oo loo isticmaalo tijaabadan QA oo keliya.",
+                "sw": "Muhtasari wa kitaifa wa nafasi, unatumika tu katika mfumo huu wa QA."
+            },
+            "url": ""
+        }
+    ],
+    "facts": [
+        {
+            "value": "8",
+            "label": {
+                "en": "EAC Partner States",
+                "so": "Dawladaha EAC",
+                "sw": "Nchi Washirika za EAC"
+            }
+        },
+        {
+            "value": "4 Mar 2024",
+            "label": {
+                "en": "Somalia became full member",
+                "so": "Soomaaliya waxay noqotay xubin buuxda",
+                "sw": "Somalia ikawa mwanachama kamili"
+            }
+        },
+        {
+            "value": "4",
+            "label": {
+                "en": "Core integration pillars",
+                "so": "Tiirarka isku-dhafka",
+                "sw": "Nguzo kuu za ujumuishaji"
+            }
+        },
+        {
+            "value": "EN + SO + SW",
+            "label": {
+                "en": "Launch languages",
+                "so": "Luqadaha daahfurka",
+                "sw": "Lugha za uzinduzi"
+            }
+        }
+    ],
+    "sources": [
+        {
+            "label": {
+                "en": "MFA Somalia — EAC Affairs",
+                "so": "MFA Soomaaliya — Arrimaha EAC",
+                "sw": "Wizara ya Mambo ya Nje ya Somalia — Masuala ya EAC"
+            },
+            "url": "https://web.mfa.gov.so/eac-affairs/"
+        },
+        {
+            "label": {
+                "en": "MFA Somalia — State Minister in charge of EAC",
+                "so": "MFA Soomaaliya — Wasiirka Gobolka ee EAC",
+                "sw": "Wizara ya Mambo ya Nje ya Somalia — Waziri wa Nchi msimamizi wa EAC"
+            },
+            "url": "https://web.mfa.gov.so/st-minister-incharge-of-eac/"
+        },
+        {
+            "label": {
+                "en": "East African Community",
+                "so": "Bulshada Bariga Afrika",
+                "sw": "Jumuiya ya Afrika Mashariki"
+            },
+            "url": "https://www.eac.int/"
+        },
+        {
+            "label": {
+                "en": "EAC Resources / e-Library",
+                "so": "Kheyraadka EAC / e-Library",
+                "sw": "Rasilimali za EAC / e-Library"
+            },
+            "url": "https://www.eac.int/resources"
+        }
+    ]
+}

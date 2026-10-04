@@ -1,0 +1,8 @@
+submissions/*
+!submissions/.htaccess
+!submissions/.gitkeep
+
+.DS_Store
+*.log
+.env
+.env.*

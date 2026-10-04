@@ -1,0 +1,730 @@
+{
+    "qa_banner": {
+        "en": "QA ENVIRONMENT · noindex recommended",
+        "so": "DEGMADA QA · noindex ayaa lagula talinayaa",
+        "sw": "MAZINGIRA YA QA · noindex inapendekezwa"
+    },
+    "topbar_left": {
+        "en": "Federal Republic of Somalia · Ministry of Foreign Affairs & International Cooperation",
+        "so": "Jamhuuriyadda Federaalka Soomaaliya · Wasaaradda Arrimaha Dibadda & Iskaashiga Caalamiga",
+        "sw": "Jamhuri ya Shirikisho la Somalia · Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa"
+    },
+    "site_name": {
+        "en": "Somalia EAC Affairs",
+        "so": "Arrimaha EAC ee Soomaaliya",
+        "sw": "Masuala ya EAC ya Somalia"
+    },
+    "site_tagline": {
+        "en": "National coordination & integration gateway",
+        "so": "Albaabka isku-duwidda iyo is-dhexgalka qaran",
+        "sw": "Lango la uratibu wa taifa na ujumuishaji"
+    },
+    "last_updated": {
+        "en": "Last updated",
+        "so": "Markii ugu dambeysay la cusbooneysiiyay",
+        "sw": "Ilisasishwa"
+    },
+    "menu": {
+        "en": "Menu",
+        "so": "Liiska",
+        "sw": "Menyu"
+    },
+    "close": {
+        "en": "Close",
+        "so": "Xir",
+        "sw": "Funga"
+    },
+    "nav_somalia": {
+        "en": "Somalia in the EAC",
+        "so": "Soomaaliya ee EAC",
+        "sw": "Somalia katika EAC"
+    },
+    "nav_business": {
+        "en": "For Business",
+        "so": "Ganacsatada",
+        "sw": "Kwa Biashara"
+    },
+    "nav_citizens": {
+        "en": "For Citizens",
+        "so": "Muwaadiniinta",
+        "sw": "Kwa Wananchi"
+    },
+    "nav_tracker": {
+        "en": "Integration Tracker",
+        "so": "Raadinta Isku-dhafka",
+        "sw": "Kifuatiliaji cha ujumuishaji"
+    },
+    "nav_resources": {
+        "en": "Resources",
+        "so": "Kheyraadka",
+        "sw": "Rasilimali"
+    },
+    "nav_news": {
+        "en": "News & Events",
+        "so": "Wararka & Dhacdooyinka",
+        "sw": "Habari na Matukio"
+    },
+    "nav_opportunities": {
+        "en": "Opportunities",
+        "so": "Fursadaha",
+        "sw": "Fursa"
+    },
+    "nav_about": {
+        "en": "About",
+        "so": "Nagu saabsan",
+        "sw": "Kuhusu"
+    },
+    "mega_membership": {
+        "en": "Membership",
+        "so": "Xubinnimada",
+        "sw": "Uanachama"
+    },
+    "mega_representation": {
+        "en": "Representation",
+        "so": "Wakiillada",
+        "sw": "Uwakilishi"
+    },
+    "mega_understand": {
+        "en": "Understand",
+        "so": "Faham",
+        "sw": "Elewa"
+    },
+    "mega_trade": {
+        "en": "Trade",
+        "so": "Ganacsiga",
+        "sw": "Biashara"
+    },
+    "mega_barriers": {
+        "en": "Barriers",
+        "so": "Caqabadaha",
+        "sw": "Vizuizi"
+    },
+    "mega_tools": {
+        "en": "Tools",
+        "so": "Qalabka",
+        "sw": "Zana"
+    },
+    "mega_mobility": {
+        "en": "Mobility",
+        "so": "Dhaqdhaqaaqa",
+        "sw": "Uhamaji"
+    },
+    "mega_learning": {
+        "en": "Learning",
+        "so": "Waxbarashada",
+        "sw": "Elimu"
+    },
+    "mega_participate": {
+        "en": "Participate",
+        "so": "Ka-qaybgalka",
+        "sw": "Shiriki"
+    },
+    "link_membership": {
+        "en": "Membership & accession",
+        "so": "Xubinnimada & ku-biirista",
+        "sw": "Uanachama na kujiunga"
+    },
+    "link_roadmap": {
+        "en": "Integration roadmap",
+        "so": "Khariidadda isku-dhafka",
+        "sw": "Ramani ya ujumuishaji"
+    },
+    "link_leadership": {
+        "en": "Leadership",
+        "so": "Hogaaminta",
+        "sw": "Uongozi"
+    },
+    "link_eala": {
+        "en": "EALA representation",
+        "so": "Wakiillada EALA",
+        "sw": "Uwawakilishi katika EALA"
+    },
+    "link_eacj": {
+        "en": "EACJ representation",
+        "so": "Wakiillada EACJ",
+        "sw": "Uwawakilishi katika EACJ"
+    },
+    "link_coordination": {
+        "en": "National coordination",
+        "so": "Isku-duwidda qaran",
+        "sw": "Uratibu wa taifa"
+    },
+    "link_means": {
+        "en": "What membership means",
+        "so": "Macnaha xubinnimada",
+        "sw": "Maana ya uanachama"
+    },
+    "link_timeline": {
+        "en": "Timeline",
+        "so": "Taariikhda",
+        "sw": "Ratiba ya matukio"
+    },
+    "link_faqs": {
+        "en": "FAQs",
+        "so": "Su'aalaha",
+        "sw": "Maswali ya kawaida"
+    },
+    "link_trading": {
+        "en": "Trading in the EAC",
+        "so": "Ganacsiga EAC",
+        "sw": "Kufanya biashara katika EAC"
+    },
+    "link_required_docs": {
+        "en": "Required documents",
+        "so": "Dukumentiyada loo baahan yahay",
+        "sw": "Nyaraka zinazohitajika"
+    },
+    "link_tariffs": {
+        "en": "Tariff guidance",
+        "so": "Tilmaanta canshuuraha",
+        "sw": "Mwongozo wa ushuru"
+    },
+    "link_ntb": {
+        "en": "Report an NTB",
+        "so": "Soo sheeg caqabad aan canshuur ahayn",
+        "sw": "Ripoti NTB"
+    },
+    "link_border": {
+        "en": "Border procedures",
+        "so": "Nidaamyada xuduudaha",
+        "sw": "Taratibu za mpaka"
+    },
+    "link_standards": {
+        "en": "Standards",
+        "so": "Heerarka",
+        "sw": "Viwango"
+    },
+    "link_doc_library": {
+        "en": "Document library",
+        "so": "Maktabadda dukumentiyada",
+        "sw": "Maktaba ya nyaraka"
+    },
+    "link_business_faqs": {
+        "en": "Business FAQs",
+        "so": "Su'aalaha ganacsiga",
+        "sw": "Maswali ya biashara"
+    },
+    "link_travel": {
+        "en": "Travel & passport",
+        "so": "Safarka & baasaboorka",
+        "sw": "Safari na pasipoti"
+    },
+    "link_work": {
+        "en": "Work & residence",
+        "so": "Shaqada & degenaanshaha",
+        "sw": "Kazi na makazi"
+    },
+    "link_study": {
+        "en": "Study in East Africa",
+        "so": "Waxbarasho Bariga Afrika",
+        "sw": "Soma Afrika Mashariki"
+    },
+    "link_scholarships": {
+        "en": "Scholarships",
+        "so": "Deeqaha waxbarasho",
+        "sw": "Udhamini"
+    },
+    "link_consultations": {
+        "en": "Consultations",
+        "so": "Wadatashiyo",
+        "sw": "Mashauriano"
+    },
+    "link_reps": {
+        "en": "Contact representatives",
+        "so": "La xiriir wakiillada",
+        "sw": "Wasiliana na wawakilishi"
+    },
+    "footer_tagline": {
+        "en": "National EAC coordination gateway",
+        "so": "Albaabka isku-duwidda EAC ee qaran",
+        "sw": "Lango la uratibu wa kitaifa wa EAC"
+    },
+    "footer_blurb": {
+        "en": "QA prototype prepared for a future database-backed public service website.",
+        "so": "Tijaabo QA oo loo diyaariyay mareeg adeeg dadweyne oo mustaqbalka ku salaysan xog-ururin.",
+        "sw": "Mfano wa QA ulioandaliwa kwa tovuti ya huduma kwa umma itakayotegemea hifadhidata."
+    },
+    "footer_official": {
+        "en": "Official links",
+        "so": "Xiriirrada rasmiga",
+        "sw": "Viungo rasmi"
+    },
+    "footer_trade": {
+        "en": "Trade guidance",
+        "so": "Tilmaanta ganacsiga",
+        "sw": "Mwongozo wa biashara"
+    },
+    "footer_barrier": {
+        "en": "Report a barrier",
+        "so": "Soo sheeg caqabad",
+        "sw": "Ripoti kizuizi"
+    },
+    "footer_study": {
+        "en": "Study",
+        "so": "Waxbarasho",
+        "sw": "Masomo"
+    },
+    "footer_travel_work": {
+        "en": "Travel & work",
+        "so": "Safar & shaqo",
+        "sw": "Safari na kazi"
+    },
+    "copyright": {
+        "en": "© 2026 Federal Republic of Somalia · QA prototype · Sample content clearly marked.",
+        "so": "© 2026 Jamhuuriyadda Federaalka Soomaaliya · Tijaabo QA · Waxyaabaha tijaabada ah si cad ayaa loo calaamadeeyay.",
+        "sw": "© 2026 Jamhuri ya Shirikisho la Somalia · Mfano wa QA · Maudhui ya mfano yamewekwa alama wazi."
+    },
+    "view_commitments": {
+        "en": "View all commitments",
+        "so": "Eeg dhammaan ballanqaadyada",
+        "sw": "Tazama majukumu yote"
+    },
+    "all_news": {
+        "en": "All news →",
+        "so": "Dhammaan wararka →",
+        "sw": "Habari zote →"
+    },
+    "read_update": {
+        "en": "Read update →",
+        "so": "Akhri cusbooneysiinta →",
+        "sw": "Soma taarifa →"
+    },
+    "deadline": {
+        "en": "Deadline",
+        "so": "Kama dambaysta",
+        "sw": "Tarehe ya mwisho"
+    },
+    "sample_notice": {
+        "en": "All progress numbers on this QA page are sample design data, not official measurements.",
+        "so": "Dhammaan tirooyinka horumarka ee boggan QA waa xog tijaabo ah, ma aha cabbir rasmi ah.",
+        "sw": "Takwimu za maendeleo kwenye ukurasa huu wa QA ni data ya mfano, si vipimo rasmi."
+    },
+    "home_eyebrow": {
+        "en": "Somalia in the EAC",
+        "so": "Soomaaliya ee EAC",
+        "sw": "Somalia katika EAC"
+    },
+    "home_title": {
+        "en": "A service-first national EAC website",
+        "so": "Mareeg qaran oo adeegga muwaadinka u hormarinaysa",
+        "sw": "Tovuti ya kitaifa ya EAC inayotanguliza huduma"
+    },
+    "home_intro": {
+        "en": "Designed around the questions citizens, traders, students and public institutions actually need answered — not only institutional history.",
+        "so": "Loogu talagalay su'aalaha muwaadiniinta, ganacsatada, ardayda iyo hay'adaha dawladda dhab ahaantii u baahan yihiin — ma aha taariikh hay'adeed oo keliya.",
+        "sw": "Imeundwa kuzunguka maswali wanayohitaji wananchi, wafanyabiashara, wanafunzi na taasisi za umma — si historia ya taasisi pekee."
+    },
+    "tracker_eyebrow": {
+        "en": "Flagship feature",
+        "so": "Astaanta ugu muhiimsan",
+        "sw": "Huduma kuu"
+    },
+    "tracker_title": {
+        "en": "Integration tracker",
+        "so": "Raadinta isku-dhafka",
+        "sw": "Kifuatiliaji cha ujumuishaji"
+    },
+    "tracker_intro": {
+        "en": "Sample progress visualization. In Phase 2 every record becomes structured, filterable and backed by named government focal points.",
+        "so": "Muujinta horumarka tijaabada. Wajiga 2aad diiwaan kasta wuxuu noqonayaa mid qaabaysan, la kala saari karo oo ay taageerayaan xafiisyo dawladeed oo magac leh.",
+        "sw": "Onyesho la mfano la maendeleo. Awamu ya 2 kila rekodi itakuwa na muundo, kuchujwa, na vituo vya mawasiliano vya serikali vilivyo na majina."
+    },
+    "tracker_answers_title": {
+        "en": "What this tracker will answer",
+        "so": "Waxa raadintani ka jawaabi doonto",
+        "sw": "Maswali ambayo kifuatiliaji kitajibu"
+    },
+    "tracker_answers": {
+        "en": "What has Somalia committed to? Which institution owns it? What is the deadline? What is the current verified status?",
+        "so": "Maxay Soomaaliya ballanqaaday? Hay'adkee ayaa mas'uul ka ah? Waa maxay kama dambaysta? Waa maxay xaaladda la xaqiijiyay?",
+        "sw": "Somalia imejitolea nini? Taasisi ipi inamiliki? Tarehe ya mwisho ni ipi? Hali iliyothibitishwa sasa ni ipi?"
+    },
+    "tracker_filters_title": {
+        "en": "Planned filters",
+        "so": "Shaandhaynta la qorsheeyay",
+        "sw": "Vichujio vilivyopangwa"
+    },
+    "tracker_filters": {
+        "en": "Pillar · Ministry · Deadline · Status · Legal source · Last verified date.",
+        "so": "Tiirka · Wasaaradda · Kama dambaysta · Xaaladda · Xogta sharciga · Taariikhda la xaqiijiyay.",
+        "sw": "Nguzo · Wizara · Tarehe ya mwisho · Hali · Chanzo cha kisheria · Tarehe ya uthibitisho."
+    },
+    "news_eyebrow": {
+        "en": "Newsroom",
+        "so": "Qolka wararka",
+        "sw": "Chumba cha habari"
+    },
+    "news_title": {
+        "en": "Latest EAC affairs",
+        "so": "Arrimaha EAC ee ugu dambeeyay",
+        "sw": "Masuala ya hivi karibuni ya EAC"
+    },
+    "news_intro": {
+        "en": "Structured categories keep EAC integration, trade, mobility and opportunities easy to find.",
+        "so": "Qaybaha qaabaysan waxay fududeeyaan helitaanka isku-dhafka EAC, ganacsiga, dhaqdhaqaaqa iyo fursadaha.",
+        "sw": "Makundi yaliyopangwa yanarahisisha kupata ujumuishaji wa EAC, biashara, uhamaji na fursa."
+    },
+    "opp_eyebrow": {
+        "en": "Repeat-visit feature",
+        "so": "Qaybta soo-noqoshada",
+        "sw": "Huduma ya kurudi tena"
+    },
+    "opp_title": {
+        "en": "Opportunities for Somalis",
+        "so": "Fursadaha Soomaalida",
+        "sw": "Fursa kwa Wasomalia"
+    },
+    "opp_intro": {
+        "en": "Jobs, scholarships, tenders, consultancies and training opportunities relevant to Somali nationals and institutions.",
+        "so": "Shaqooyin, deeqo waxbarasho, qandaraasyo, la-talin iyo tababar ku habboon muwaadiniinta iyo hay'adaha Soomaaliyeed.",
+        "sw": "Kazi, udhamini, zabuni, ushauri na fursa za mafunzo zinazowahusu raia na taasisi za Somalia."
+    },
+    "docs_eyebrow": {
+        "en": "Resources",
+        "so": "Kheyraadka",
+        "sw": "Rasilimali"
+    },
+    "docs_title": {
+        "en": "Document library",
+        "so": "Maktabadda dukumentiyada",
+        "sw": "Maktaba ya nyaraka"
+    },
+    "docs_intro": {
+        "en": "Designed for metadata, filtering, stable URLs and plain-language summaries in the database-backed phase.",
+        "so": "Loogu talagalay xog-dheer, shaandhayn, URL-yo joogto ah iyo soo-koobid luuqad fudud marka xog-ururinta la dhisayo.",
+        "sw": "Imeandaliwa kwa metadata, kuchuja, anwani thabiti na muhtasari wa lugha rahisi katika awamu ya hifadhidata."
+    },
+    "col_type": {
+        "en": "Type",
+        "so": "Nooca",
+        "sw": "Aina"
+    },
+    "col_document": {
+        "en": "Document",
+        "so": "Dukumentiga",
+        "sw": "Hati"
+    },
+    "col_year": {
+        "en": "Year",
+        "so": "Sannadka",
+        "sw": "Mwaka"
+    },
+    "col_language": {
+        "en": "Language",
+        "so": "Luqadda",
+        "sw": "Lugha"
+    },
+    "col_source": {
+        "en": "Source",
+        "so": "Xigashada",
+        "sw": "Chanzo"
+    },
+    "minister_eyebrow": {
+        "en": "Minister responsible for EAC Affairs",
+        "so": "Wasiirka u xaadhaya Arrimaha EAC",
+        "sw": "Waziri msimamizi wa Masuala ya EAC"
+    },
+    "official_profile": {
+        "en": "Official MFA profile ↗",
+        "so": "Bogga rasmiga ah ee MFA ↗",
+        "sw": "Wasifu rasmi wa Wizara ya Mambo ya Nje ↗"
+    },
+    "image_notice": {
+        "en": "Official MFA portrait of the State Minister in charge of EAC Affairs.",
+        "so": "Sawirka rasmiga ah ee MFA ee Wasiirka Gobolka ee Arrimaha EAC.",
+        "sw": "Picha rasmi ya Wizara ya Mambo ya Nje ya Waziri wa Nchi msimamizi wa Masuala ya EAC."
+    },
+    "breadcrumb_home": {
+        "en": "Home",
+        "so": "Bogga hore",
+        "sw": "Nyumbani"
+    },
+    "filter_all": {
+        "en": "All",
+        "so": "Dhammaan",
+        "sw": "Zote"
+    },
+    "filter_search": {
+        "en": "Search",
+        "so": "Raadi",
+        "sw": "Tafuta"
+    },
+    "search_placeholder": {
+        "en": "Search titles…",
+        "so": "Raadi cinwaannada…",
+        "sw": "Tafuta vichwa…"
+    },
+    "no_results": {
+        "en": "No matching items.",
+        "so": "Wax u dhigma lama helin.",
+        "sw": "Hakuna vinavyolingana."
+    },
+    "submit": {
+        "en": "Submit",
+        "so": "Gudbi",
+        "sw": "Wasilisha"
+    },
+    "form_success": {
+        "en": "Thank you. This QA form stored a sample submission for design testing. It is not an official government channel.",
+        "so": "Mahadsanid. Foomkan QA wuxuu kaydiyay soo-gudbin tijaabo ah. Ma aha kanaal dawladeed oo rasmi ah.",
+        "sw": "Asante. Fomu hii ya QA imehifadhi wasilisho la mfano kwa jaribio la muundo. Sio kituo rasmi cha serikali."
+    },
+    "form_error": {
+        "en": "Please complete the required fields.",
+        "so": "Fadlan buuxi meelaha loo baahan yahay.",
+        "sw": "Tafadhali jaza sehemu zinazohitajika."
+    },
+    "form_qa_notice": {
+        "en": "This is a QA prototype form. Submissions are stored locally for design review and are not routed to a ministry inbox.",
+        "so": "Kani waa foom tijaabo QA ah. Soo-gudbinta waxaa lagu kaydiyaa maxalli si loo eego naqshadda, lagumana diro sanduuqa wasaaradda.",
+        "sw": "Hii ni fomu ya mfano wa QA. Wasilisho zinahifadhiwa hapa kwa ukaguzi wa muundo na hazitumwi kwenye sanduku la wizara."
+    },
+    "back_news": {
+        "en": "← All news",
+        "so": "← Dhammaan wararka",
+        "sw": "← Habari zote"
+    },
+    "page_not_found": {
+        "en": "Page not found",
+        "so": "Bogga lama helin",
+        "sw": "Ukurasa haujapatikana"
+    },
+    "page_not_found_text": {
+        "en": "The page you requested is not part of this QA prototype, or the address is incorrect.",
+        "so": "Bogga aad waydiisatay kama mid aha tijaabadan QA, ama cinwaanku waa khalad.",
+        "sw": "Ukurasa uliouomba si sehemu ya mfumo huu wa QA, au anwani si sahihi."
+    },
+    "return_home": {
+        "en": "Return to homepage",
+        "so": "Ku noqo bogga hore",
+        "sw": "Rudi mwanzo"
+    },
+    "skip": {
+        "en": "Skip to content",
+        "so": "U gudub nuxurka",
+        "sw": "Nenda kwenye maudhui"
+    },
+    "prev_slide": {
+        "en": "Previous slide",
+        "so": "Sawirka hore",
+        "sw": "Slaidi iliyotangulia"
+    },
+    "next_slide": {
+        "en": "Next slide",
+        "so": "Sawirka xiga",
+        "sw": "Slaidi inayofuata"
+    },
+    "related": {
+        "en": "Related",
+        "so": "La xidhiidha",
+        "sw": "Zinazohusiana"
+    },
+    "eligibility": {
+        "en": "Eligibility",
+        "so": "U-qalmidda",
+        "sw": "Vigezo vya kufuzu"
+    },
+    "summary": {
+        "en": "Summary",
+        "so": "Soo-koobid",
+        "sw": "Muhtasari"
+    },
+    "owner": {
+        "en": "Owner",
+        "so": "Mas'uulka",
+        "sw": "Mmiliki"
+    },
+    "status": {
+        "en": "Status",
+        "so": "Xaaladda",
+        "sw": "Hali"
+    },
+    "pillar": {
+        "en": "Pillar",
+        "so": "Tiirka",
+        "sw": "Nguzo"
+    },
+    "legal_source": {
+        "en": "Legal source",
+        "so": "Xigashada sharciga",
+        "sw": "Chanzo cha kisheria"
+    },
+    "last_verified": {
+        "en": "Last verified",
+        "so": "Markii ugu dambeysay la xaqiijiyay",
+        "sw": "Ilithibitishwa mwisho"
+    },
+    "related_in_section": {
+        "en": "In this section",
+        "so": "Qaybtan",
+        "sw": "Katika sehemu hii"
+    },
+    "official_sources": {
+        "en": "Official sources",
+        "so": "Ilaha rasmiga",
+        "sw": "Vyanzo rasmi"
+    },
+    "sample_qa_badge": {
+        "en": "QA sample content",
+        "so": "Qoraal tijaabo QA",
+        "sw": "Maudhui ya mfano ya QA"
+    },
+    "need_next": {
+        "en": "Continue with a related service",
+        "so": "Sii wad adeeg la xidhiidha",
+        "sw": "Endelea na huduma inayohusiana"
+    },
+    "need_next_text": {
+        "en": "This national gateway is built around the next action — trade, mobility, documents or the public tracker.",
+        "so": "Albaabkan qaran wuxuu ku dhisan yahay tallaabada xigta — ganacsi, dhaqdhaqaaq, dukumentiyo ama raadinta dadweynaha.",
+        "sw": "Lango hili la taifa limejengwa kuzunguka hatua inayofuata — biashara, uhamaji, nyaraka au kifuatiliaji cha umma."
+    },
+    "how_it_works": {
+        "en": "How this channel works",
+        "so": "Sida kanaalkani u shaqeeyo",
+        "sw": "Jinsi kituo hiki kinavyofanya kazi"
+    },
+    "step_one": {
+        "en": "1. Describe the issue",
+        "so": "1. Sharax dhibaatada",
+        "sw": "1. Eleza tatizo"
+    },
+    "step_two": {
+        "en": "2. Submit for QA review",
+        "so": "2. U gudbi eegista QA",
+        "sw": "2. Wasilisha kwa ukaguzi wa QA"
+    },
+    "step_three": {
+        "en": "3. Production will route to the ministry",
+        "so": "3. Soo-saaristu waxay u diri doontaa wasaaradda",
+        "sw": "3. Toleo rasmi litatuma kwa wizara"
+    },
+    "progress": {
+        "en": "Progress",
+        "so": "Horumarka",
+        "sw": "Maendeleo"
+    },
+    "view_source": {
+        "en": "Open source",
+        "so": "Fur xigashada",
+        "sw": "Fungua chanzo"
+    },
+    "featured": {
+        "en": "Featured",
+        "so": "La soo bandhigay",
+        "sw": "Iliyoangaziwa"
+    },
+    "read_briefing": {
+        "en": "Read briefing",
+        "so": "Akhri warbixinta",
+        "sw": "Soma muhtasari"
+    },
+    "contact_desk": {
+        "en": "Service desk",
+        "so": "Miiska adeegga",
+        "sw": "Dawati la huduma"
+    },
+    "secure_channel": {
+        "en": "Secure QA channel",
+        "so": "Kanaal QA oo sugan",
+        "sw": "Kituo salama cha QA"
+    },
+    "form_intro": {
+        "en": "Use this form for prototype testing. Required fields are marked.",
+        "so": "Isticmaal foomkan tijaabada. Meelaha loo baahan yahay waa la calaamadeeyay.",
+        "sw": "Tumia fomu hii kwa jaribio la mfano. Sehemu zinazohitajika zimewekwa alama."
+    },
+    "form_full_name": { "en": "Full name", "so": "Magaca", "sw": "Jina kamili" },
+    "form_organisation": { "en": "Organisation", "so": "Hay'adda / shirkadda", "sw": "Taasisi / kampuni" },
+    "form_phone": { "en": "Phone", "so": "Telefoon", "sw": "Simu" },
+    "form_border": { "en": "Border post / crossing", "so": "Saldhigga / xuduudda", "sw": "Kituo cha mpaka" },
+    "form_partner_state": { "en": "EAC Partner State involved", "so": "Dawladda EAC ee ku lugta leh", "sw": "Nchi Mshirika ya EAC inayohusika" },
+    "form_describe_barrier": { "en": "Describe the barrier", "so": "Sharaxaadda caqabadda", "sw": "Eleza kizuizi" },
+    "form_topic": { "en": "Topic", "so": "Mawduuca", "sw": "Mada" },
+    "form_message": { "en": "Message", "so": "Fariinta", "sw": "Ujumbe" },
+    "form_national_coord": { "en": "National coordination", "so": "Isku-duwid qaran", "sw": "Uratibu wa taifa" },
+    "welcome": {
+        "en": "Welcome to the Official EAC Affairs Portal of Somalia",
+        "so": "Ku soo dhowow Albaabka Rasmiga ah ee Arrimaha EAC ee Soomaaliya",
+        "sw": "Karibu kwenye Lango Rasmi la Masuala ya EAC ya Somalia"
+    },
+    "brand_country": { "en": "Federal Republic of Somalia", "so": "Jamhuuriyadda Federaalka Soomaaliya", "sw": "Jamhuri ya Shirikisho la Somalia" },
+    "brand_line": { "en": "EAC Affairs", "so": "Arrimaha EAC", "sw": "Masuala ya EAC" },
+    "brand_ministry": { "en": "Ministry of Foreign Affairs & International Cooperation", "so": "Wasaaradda Arrimaha Dibadda & Iskaashiga Caalamiga", "sw": "Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa" },
+    "nav_home": { "en": "Home", "so": "Bogga hore", "sw": "Nyumbani" },
+    "nav_about_eac": { "en": "About EAC", "so": "Ku saabsan EAC", "sw": "Kuhusu EAC" },
+    "nav_services": { "en": "Services", "so": "Adeegyada", "sw": "Huduma" },
+    "nav_contact": { "en": "Contact", "so": "Xiriir", "sw": "Wasiliana" },
+    "official_links": { "en": "Official Links", "so": "Xiriirrada rasmiga", "sw": "Viungo rasmi" },
+    "search": { "en": "Search", "so": "Raadi", "sw": "Tafuta" },
+    "search_site": { "en": "Search the site…", "so": "Raadi mareegga…", "sw": "Tafuta kwenye tovuti…" },
+    "stronger_together": { "en": "Stronger together", "so": "Wada xoog badan", "sw": "Pamoja tuna nguvu" },
+    "hero_home_title": { "en": "Somalia in the East African Community", "so": "Soomaaliya ee Bulshada Bariga Afrika", "sw": "Somalia katika Jumuiya ya Afrika Mashariki" },
+    "hero_home_text": {
+        "en": "Building peace, prosperity and a shared future through regional integration, free movement and sustainable economic growth.",
+        "so": "Dhisidda nabad, barwaaqo iyo mustaqbal wadaag ah iyadoo loo marayo isku-dhafka gobolka, dhaqdhaqaaqa xorta ah iyo koboca dhaqaale ee waara.",
+        "sw": "Kujenga amani, ustawi na mustakabali wa pamoja kupitia ujumuishaji wa kikanda, uhuru wa kutembea na ukuaji endelevu wa uchumi."
+    },
+    "cta_about_somalia_eac": { "en": "About Somalia in EAC", "so": "Soomaaliya ee EAC", "sw": "Kuhusu Somalia katika EAC" },
+    "cta_membership_benefits": { "en": "EAC Membership Benefits", "so": "Faa'iidooyinka xubinnimada", "sw": "Manufaa ya uanachama wa EAC" },
+    "ql_trade": { "en": "Trade & Business", "so": "Ganacsi & Maalgashi", "sw": "Biashara na Uwekezaji" },
+    "ql_trade_sub": { "en": "Export, import & investment", "so": "Dhoofin, soo-dejin & maalgashi", "sw": "Mauzo nje, uagizaji na uwekezaji" },
+    "ql_travel": { "en": "Travel & Mobility", "so": "Safar & Dhaqdhaqaaq", "sw": "Safari na Uhamaji" },
+    "ql_travel_sub": { "en": "Visa, movement & residency", "so": "Fiiso, dhaqdhaqaaq & degenaansho", "sw": "Visa, uhamaji na makazi" },
+    "ql_students": { "en": "Students & Youth", "so": "Ardayda & Dhallinyarada", "sw": "Wanafunzi na Vijana" },
+    "ql_students_sub": { "en": "Scholarships & programmes", "so": "Deeqo iyo barnaamijyo", "sw": "Udhamini na programu" },
+    "ql_citizens": { "en": "Citizens", "so": "Muwaadiniinta", "sw": "Wananchi" },
+    "ql_citizens_sub": { "en": "Rights, services & support", "so": "Xuquuq, adeegyo & taageero", "sw": "Haki, huduma na msaada" },
+    "ql_barrier": { "en": "Report a Barrier", "so": "Soo sheeg caqabad", "sw": "Ripoti kizuizi" },
+    "ql_barrier_sub": { "en": "Trade or movement issues", "so": "Arrimaha ganacsiga ama dhaqdhaqaaqa", "sw": "Masuala ya biashara au uhamaji" },
+    "latest_update": { "en": "Latest update", "so": "Cusbooneysiinta ugu dambeysay", "sw": "Taarifa ya hivi karibuni" },
+    "eighth_member_title": { "en": "Somalia is the 8th Member State of the EAC", "so": "Soomaaliya waa xubinta 8aad ee EAC", "sw": "Somalia ni Nchi Mshirika ya 8 ya EAC" },
+    "eighth_member_text": {
+        "en": "On 4 March 2024 Somalia acceded as a full Partner State — opening a new chapter of regional trade, mobility and political cooperation.",
+        "so": "4-tii Maarso 2024 Soomaaliya waxay noqotay xubin buuxda — cutub cusub oo ganacsi goboleed, dhaqdhaqaaq iyo iskaashi siyaasadeed.",
+        "sw": "Tarehe 4 Machi 2024 Somalia ilijiunga kama Nchi Mshirika kamili — ukurasa mpya wa biashara ya kikanda, uhamaji na ushirikiano wa kisiasa."
+    },
+    "read_more": { "en": "Read more", "so": "Sii akhri", "sw": "Soma zaidi" },
+    "minister_message": { "en": "Message from the Minister", "so": "Fariinta Wasiirka", "sw": "Ujumbe kutoka kwa Waziri" },
+    "upcoming_events": { "en": "Upcoming events", "so": "Dhacdooyinka soo socda", "sw": "Matukio yajayo" },
+    "view_all": { "en": "View all", "so": "Eeg dhammaan", "sw": "Tazama zote" },
+    "trade_banner_kicker": { "en": "Trade. Invest. Grow.", "so": "Ganacso. Maalgeli. Koro.", "sw": "Fanya biashara. Wekeza. Kua." },
+    "trade_banner_title": { "en": "Unlock opportunities across the region", "so": "Fur fursadaha gobolka", "sw": "Fungua fursa kote kanda" },
+    "trade_banner_text": {
+        "en": "Access markets of over 300 million people through the EAC's integrated economy.",
+        "so": "Geli suuqyo ka badan 300 milyan oo qof iyadoo loo marayo dhaqaalaha isku dhafan ee EAC.",
+        "sw": "Fikia masoko ya zaidi ya watu milioni 300 kupitia uchumi uliounganishwa wa EAC."
+    },
+    "explore_opportunities": { "en": "Explore opportunities", "so": "Sahamin fursadaha", "sw": "Gundua fursa" },
+    "footer_quick": { "en": "Quick links", "so": "Xiriirro degdeg ah", "sw": "Viungo vya haraka" },
+    "footer_popular": { "en": "Popular services", "so": "Adeegyada caanka ah", "sw": "Huduma maarufu" },
+    "footer_contact": { "en": "Contact us", "so": "Nala soo xiriir", "sw": "Wasiliana nasi" },
+    "footer_address": { "en": "MFA Headquarters, Mogadishu, Somalia", "so": "Xarunta MFA, Muqdisho, Soomaaliya", "sw": "Makao makuu ya Wizara, Mogadishu, Somalia" },
+    "footer_hours": { "en": "Sun–Thu · 08:00–16:00 EAT", "so": "Axad–Khamiis · 08:00–16:00 EAT", "sw": "Jumapili–Alhamisi · 08:00–16:00 EAT" },
+    "privacy": { "en": "Privacy Policy", "so": "Qaanuunka sirta", "sw": "Sera ya Faragha" },
+    "terms": { "en": "Terms of Use", "so": "Shuruudaha isticmaalka", "sw": "Masharti ya Matumizi" },
+    "accessibility": { "en": "Accessibility", "so": "Helitaanka", "sw": "Ufikiaji" },
+    "copyright_mfa": {
+        "en": "© 2026 Ministry of Foreign Affairs & International Cooperation — EAC Affairs. All rights reserved.",
+        "so": "© 2026 Wasaaradda Arrimaha Dibadda & Iskaashiga Caalamiga — Arrimaha EAC. Dhammaan xuquuqdu way xifdisan yihiin.",
+        "sw": "© 2026 Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa — Masuala ya EAC. Haki zote zimehifadhiwa."
+    },
+    "see_commitments": { "en": "See full integration commitments", "so": "Eeg ballanqaadyada isku-dhafka oo dhan", "sw": "Tazama ahadi zote za ujumuishaji" },
+    "integration_tracker": { "en": "EAC Integration Tracker", "so": "Raadinta Isku-dhafka EAC", "sw": "Kifuatiliaji cha Ujumuishaji wa EAC" },
+    "visa_info": { "en": "Visa information", "so": "Macluumaadka fiisaha", "sw": "Taarifa za visa" },
+    "work_in_eac": { "en": "Work in the EAC", "so": "Ka shaqee EAC", "sw": "Fanya kazi katika EAC" },
+    "business_reg": { "en": "Business registration", "so": "Diiwaangelinta ganacsiga", "sw": "Usajili wa biashara" },
+    "gazette": { "en": "Official Gazette", "so": "Wargeyska rasmi", "sw": "Gazeti rasmi" },
+    "footer_phone": { "en": "+252 1 859 900", "so": "+252 1 859 900", "sw": "+252 1 859 900" },
+    "footer_email": { "en": "eac@mfa.gov.so", "so": "eac@mfa.gov.so", "sw": "eac@mfa.gov.so" },
+    "text_size": { "en": "Text size", "so": "Cabbirka qoraalka", "sw": "Ukubwa wa maandishi" },
+    "lang_somali": { "en": "Somali", "so": "Soomaali", "sw": "Kisomali" },
+    "lang_english": { "en": "English", "so": "Ingiriisi", "sw": "Kiingereza" },
+    "lang_swahili": { "en": "Kiswahili", "so": "Sawaaxiliga", "sw": "Kiswahili" },
+    "latest_news": { "en": "Latest news", "so": "Wararka ugu dambeeyay", "sw": "Habari za hivi karibuni" },
+    "footer_portal_blurb": {
+        "en": "The official portal of the Federal Republic of Somalia for East African Community affairs — trade, mobility, integration and citizen services.",
+        "so": "Albaabka rasmiga ah ee Jamhuuriyadda Federaalka Soomaaliya ee arrimaha Bulshada Bariga Afrika — ganacsi, dhaqdhaqaaq, isku-dhaf iyo adeegyada muwaadiniinta.",
+        "sw": "Lango rasmi la Jamhuri ya Shirikisho la Somalia kwa masuala ya Jumuiya ya Afrika Mashariki — biashara, uhamaji, ujumuishaji na huduma kwa wananchi."
+    }
+}

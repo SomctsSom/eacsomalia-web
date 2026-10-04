@@ -1,0 +1,913 @@
+{
+    "membership": {
+        "eyebrow": {
+            "en": "Somalia in the EAC",
+            "so": "Soomaaliya ee EAC",
+            "sw": "Somalia katika EAC"
+        },
+        "title": {
+            "en": "Membership & accession",
+            "so": "Xubinnimada & ku-biirista",
+            "sw": "Uanachama na kujiunga"
+        },
+        "intro": {
+            "en": "Somalia is the eighth Partner State of the East African Community. This page explains accession in plain language and points to official sources.",
+            "so": "Soomaaliya waa dawladda siddeedaad ee Bulshada Bariga Afrika. Boggan wuxuu u sharxayaa ku-biirista luuqad fudud wuxuuna tilmaamayaa ilaha rasmiga ah.",
+            "sw": "Somalia ni Nchi Mshirika ya nane ya Jumuiya ya Afrika Mashariki. Ukurasa huu unaeleza kujiunga kwa lugha rahisi na kuelekeza kwenye vyanzo rasmi."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Status",
+                    "so": "Xaaladda",
+                    "sw": "Hali"
+                },
+                "body": {
+                    "en": "Somalia became a full EAC Partner State on 4 March 2024. Accession is a legal and political process: signing and ratifying community instruments, then implementing commitments across customs, the common market, monetary cooperation and political coordination.",
+                    "so": "Soomaaliya waxay noqotay xubin buuxda 4-tii Maarso 2024. Ku-biiristu waa geedi-socod sharci iyo siyaasadeed: saxiixa iyo ansixinta agabka bulshada, ka dibna hirgelinta ballanqaadyada kastamka, suuqa wadaagga, iskaashiga lacagta iyo isku-duwidda siyaasadeed.",
+                    "sw": "Somalia ilikuwa Nchi Mshirika kamili ya EAC tarehe 4 Machi 2024. Kujiunga ni mchakato wa kisheria na kisiasa: kusaini na kuidhinisha vyombo vya Jumuiya, kisha kutekeleza majukumu katika forodha, soko la pamoja, ushirikiano wa fedha na uratibu wa kisiasa."
+                }
+            },
+            {
+                "heading": {
+                    "en": "What happens after accession",
+                    "so": "Waxa dhaca ku-biirista ka dib",
+                    "sw": "Yanayofuata baada ya kujiunga"
+                },
+                "body": {
+                    "en": "Membership is not a single event. Partner States align laws, institutions and procedures over time. This prototype's integration tracker is the public view of that work — sample data only until official measurements are published.",
+                    "so": "Xubinnimadu ma aha dhacdo keliya. Dawladuhu waxay waqti ka dib iswaafajiyaan sharciyada, hay'adaha iyo nidaamyada. Raadinta isku-dhafka ee tijaabadan waa muuqaalka dadweynaha ee shaqadaas — xog tijaabo ah ilaa cabbir rasmi ah la daabaco.",
+                    "sw": "Uanachama si tukio moja. Nchi Washirika zinaoanisha sheria, taasisi na taratibu kwa muda. Kifuatiliaji cha ujumuishaji katika mfumo huu ni mwonekano wa umma wa kazi hiyo — data ya mfano hadi vipimo rasmi vichapishwe."
+                }
+            },
+            {
+                "heading": {
+                    "en": "Read next",
+                    "so": "Sii akhri",
+                    "sw": "Soma ijayo"
+                },
+                "links": [
+                    {
+                        "label": {
+                            "en": "What membership means",
+                            "so": "Macnaha xubinnimada",
+                            "sw": "Maana ya uanachama"
+                        },
+                        "href": "somalia-in-eac/what-membership-means"
+                    },
+                    {
+                        "label": {
+                            "en": "Timeline",
+                            "so": "Taariikhda",
+                            "sw": "Ratiba ya matukio"
+                        },
+                        "href": "somalia-in-eac/timeline"
+                    },
+                    {
+                        "label": {
+                            "en": "Integration tracker",
+                            "so": "Raadinta isku-dhafka",
+                            "sw": "Kifuatiliaji cha ujumuishaji"
+                        },
+                        "href": "tracker"
+                    }
+                ]
+            }
+        ]
+    },
+    "what-membership-means": {
+        "eyebrow": {
+            "en": "Somalia in the EAC",
+            "so": "Soomaaliya ee EAC",
+            "sw": "Somalia katika EAC"
+        },
+        "title": {
+            "en": "What membership means",
+            "so": "Macnaha xubinnimada",
+            "sw": "Maana ya uanachama"
+        },
+        "intro": {
+            "en": "EAC membership is designed around four integration pillars. For the public, that should translate into clearer trade rules, easier movement, shared markets and stronger regional voice — implemented step by step.",
+            "so": "Xubinnimada EAC waxay ku dhisan tahay afar tiir. Dadweynaha, taasi waa inay noqotaa xeerar ganacsi oo cad, dhaqdhaqaaq fudud, suuqyo wadaag ah iyo cod goboleed oo xooggan — tallaabo tallaabo.",
+            "sw": "Uanachama wa EAC umejengwa juu ya nguzo nne za ujumuishaji. Kwa umma, hiyo inapaswa kuleta sheria wazi za biashara, usafiri rahisi, masoko ya pamoja na sauti imara ya kikanda — hatua kwa hatua."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Four pillars",
+                    "so": "Afar tiir",
+                    "sw": "Nguzo nne"
+                },
+                "list": [
+                    {
+                        "en": "Customs Union — common external tariff framework, customs cooperation and trade facilitation.",
+                        "so": "Ururka Kastamka — qaabka canshuurta dibadda, iskaashiga kastamka iyo fududaynta ganacsiga.",
+                        "sw": "Muungano wa Forodha — mfumo wa ushuru wa nje wa pamoja, ushirikiano wa forodha na uwezeshaji wa biashara."
+                    },
+                    {
+                        "en": "Common Market — free movement of goods, persons, labour, services and capital, plus the right of establishment.",
+                        "so": "Suuqa Wadaagga — dhaqdhaqaaqa xorta ah ee badeecadaha, dadka, shaqada, adeegyada iyo raasumaalka, iyo xaqa dejin.",
+                        "sw": "Soko la Pamoja — uhuru wa kusafirisha bidhaa, watu, kazi, huduma na mtaji, pamoja na haki ya kuanzisha biashara."
+                    },
+                    {
+                        "en": "Monetary Union — longer-term alignment of monetary and financial policy.",
+                        "so": "Ururka Lacagta — iswaafajin muddo dheer ah oo siyaasadda lacagta iyo maaliyadda.",
+                        "sw": "Muungano wa Fedha — kuoanisha sera za fedha na masuala ya kifedha kwa muda mrefu."
+                    },
+                    {
+                        "en": "Political Confederation — political cooperation toward a stated confederal destination in the Treaty.",
+                        "so": "Federaalka Siyaasadeed — iskaashi siyaasadeed oo ku wajahan yoolka heshiiska.",
+                        "sw": "Shirikisho la Kisiasa — ushirikiano wa kisiasa kuelekea lengo la shirikisho lililoainishwa katika Mkataba."
+                    }
+                ]
+            },
+            {
+                "heading": {
+                    "en": "What this website is for",
+                    "so": "Ujeeddada mareeggan",
+                    "sw": "Madhumuni ya tovuti hii"
+                },
+                "body": {
+                    "en": "This national gateway is service-first: traders need documents and NTB channels; citizens need travel, work and study information; institutions need a public tracker. History and speeches remain available, but they are not the homepage.",
+                    "so": "Albaabkan qaran wuxuu u hormariyaa adeegga: ganacsatadu waxay u baahan yihiin dukumentiyo iyo kanaalada NTB; muwaadiniintu waxay u baahan yihiin safar, shaqo iyo waxbarasho; hay'aduhu waxay u baahan yihiin raadinta dadweynaha.",
+                    "sw": "Lango hili la taifa linatanguliza huduma: wafanyabiashara wanahitaji nyaraka na njia za NTB; wananchi wanahitaji taarifa za kusafiri, kazi na masomo; taasisi zinahitaji kifuatiliaji cha umma. Historia na hotuba zinapatikana, lakini si ukurasa wa kwanza."
+                }
+            }
+        ]
+    },
+    "timeline": {
+        "eyebrow": {
+            "en": "Somalia in the EAC",
+            "so": "Soomaaliya ee EAC",
+            "sw": "Somalia katika EAC"
+        },
+        "title": {
+            "en": "Timeline",
+            "so": "Taariikhda",
+            "sw": "Ratiba ya matukio"
+        },
+        "intro": {
+            "en": "A short public timeline of Somalia's EAC path. Dates below mix established community facts with QA placeholder milestones — clearly labelled.",
+            "so": "Taariikh gaaban oo dadweyne ah. Taariikhaha hoose waxay isku daraan xaqiiqooyin bulshada iyo milicsiyo QA — si cad loo calaamadeeyay.",
+            "sw": "Ratiba fupi ya umma kuhusu safari ya Somalia katika EAC. Tarehe hizi zinachanganya ukweli wa Jumuiya na hatua za mfano za QA — zimewekwa alama wazi."
+        },
+        "timeline": [
+            {
+                "date": "1999",
+                "title": {
+                    "en": "EAC Treaty",
+                    "so": "Heshiiska EAC",
+                    "sw": "Mkataba wa EAC"
+                },
+                "text": {
+                    "en": "Treaty for the Establishment of the East African Community.",
+                    "so": "Heshiiska Aasaaska Bulshada Bariga Afrika.",
+                    "sw": "Mkataba wa Kuanzisha Jumuiya ya Afrika Mashariki."
+                }
+            },
+            {
+                "date": "2004",
+                "title": {
+                    "en": "Customs Union Protocol",
+                    "so": "Borotokoolka Ururka Kastamka",
+                    "sw": "Itifaki ya Muungano wa Forodha"
+                },
+                "text": {
+                    "en": "Partner States agree the Customs Union framework.",
+                    "so": "Dawladuhu waxay ku heshiiyaan qaabka Ururka Kastamka.",
+                    "sw": "Nchi Washirika zinakubaliana mfumo wa Muungano wa Forodha."
+                }
+            },
+            {
+                "date": "2009",
+                "title": {
+                    "en": "Common Market Protocol",
+                    "so": "Borotokoolka Suuqa Wadaagga",
+                    "sw": "Itifaki ya Soko la Pamoja"
+                },
+                "text": {
+                    "en": "Framework for free movement and the right of establishment.",
+                    "so": "Qaabka dhaqdhaqaaqa xorta ah iyo xaqa dejin.",
+                    "sw": "Mfumo wa uhuru wa kusafiri na haki ya kuanzisha biashara."
+                }
+            },
+            {
+                "date": "4 Mar 2024",
+                "title": {
+                    "en": "Somalia becomes the 8th Partner State",
+                    "so": "Soomaaliya waxay noqotay dawladda 8aad",
+                    "sw": "Somalia inakuwa Nchi Mshirika ya 8"
+                },
+                "text": {
+                    "en": "Somalia accedes as a full member of the EAC.",
+                    "so": "Soomaaliya waxay ku biirtay xubin buuxda.",
+                    "sw": "Somalia inajiunga kama Nchi Mshirika kamili ya EAC."
+                }
+            },
+            {
+                "date": "2026",
+                "title": {
+                    "en": "QA: national public gateway (sample)",
+                    "so": "QA: albaabka dadweynaha (tijaabo)",
+                    "sw": "QA: lango la umma la taifa (mfano)"
+                },
+                "text": {
+                    "en": "This prototype. Replace with an approved official milestone before launch.",
+                    "so": "Tijaabadan. Ku beddel milicsi rasmi ah ka hor daahfurka.",
+                    "sw": "Huu ni mfano. Badilisha na hatua rasmi iliyoidhinishwa kabla ya uzinduzi."
+                }
+            }
+        ]
+    },
+    "eala": {
+        "eyebrow": {
+            "en": "Representation",
+            "so": "Wakiillada",
+            "sw": "Uwakilishi"
+        },
+        "title": {
+            "en": "EALA representation",
+            "so": "Wakiillada EALA",
+            "sw": "Uwawakilishi katika EALA"
+        },
+        "intro": {
+            "en": "The East African Legislative Assembly (EALA) is the legislative organ of the EAC. Partner States send representatives to debate and pass community legislation.",
+            "so": "Golaha Sharci-dejinta ee Bariga Afrika (EALA) waa xubinta sharci-dejinta ee EAC. Dawladuhu waxay soo diraan wakiillo ka dooda oo meel-mariya sharciyada bulshada.",
+            "sw": "Bunge la Afrika Mashariki (EALA) ni chombo cha kutunga sheria cha EAC. Nchi Washirika zinawatuma wawakilishi kujadili na kupitisha sheria za Jumuiya."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "What the public should find here",
+                    "so": "Waxa dadweynuhu ka heli doono",
+                    "sw": "Yanayopaswa kupatikana kwa umma"
+                },
+                "body": {
+                    "en": "In production this page will list Somalia's EALA representatives, their committee roles, how to contact them, and a feed of assembly business relevant to Somalia. Names and biographies are omitted from this QA build until officially confirmed for publication.",
+                    "so": "Marka la soo saarayo boggan wuxuu liis gareyn doonaa wakiillada EALA ee Soomaaliya, guddiyadooda, sida loola xiriiro, iyo shaqada golaha ee Soomaaliya khusaysa. Magacyada lagama soo saarin tijaabadan ilaa si rasmi ah loo xaqiijiyo.",
+                    "sw": "Toleo rasmi litaorodhesha wawakilishi wa Somalia katika Bunge la Afrika Mashariki (EALA), majukumu yao ya kamati, jinsi ya kuwasiliana nao, na shughuli za bunge zinazohusu Somalia. Majina na wasifu hayajawekwa kwenye QA hii hadi yathibitishwe rasmi."
+                }
+            },
+            {
+                "heading": {
+                    "en": "Contact channel",
+                    "so": "Kanaalka xiriirka",
+                    "sw": "Njia ya mawasiliano"
+                },
+                "body": {
+                    "en": "Use the representatives form to send a QA test message. It is not an official inbox.",
+                    "so": "Isticmaal foomka wakiillada si aad u dirto fariin tijaabo ah. Ma aha sanduuq rasmi ah.",
+                    "sw": "Tumia fomu ya wawakilishi kutuma ujumbe wa jaribio la QA. Sio sanduku rasmi."
+                },
+                "links": [
+                    {
+                        "label": {
+                            "en": "Contact representatives",
+                            "so": "La xiriir wakiillada",
+                            "sw": "Wasiliana na wawakilishi"
+                        },
+                        "href": "citizens/representatives"
+                    }
+                ]
+            }
+        ]
+    },
+    "eacj": {
+        "eyebrow": {
+            "en": "Representation",
+            "so": "Wakiillada",
+            "sw": "Uwakilishi"
+        },
+        "title": {
+            "en": "EACJ representation",
+            "so": "Wakiillada EACJ",
+            "sw": "Uwawakilishi katika EACJ"
+        },
+        "intro": {
+            "en": "The East African Court of Justice (EACJ) interprets and applies EAC law. Partner States participate through judges and through cases brought under the Treaty.",
+            "so": "Maxkamadda Caddaaladda ee Bariga Afrika (EACJ) waxay tarjumtaa oo dhaqangelisaa sharciga EAC. Dawladuhu waxay ka qaybqaataan garsoorayaal iyo kiisas heshiiska ku salaysan.",
+            "sw": "Mahakama ya Afrika Mashariki (EACJ) inafasiri na kutumia sheria ya EAC. Nchi Washirika zinashiriki kupitia majaji na kesi zinazoletewa chini ya Mkataba."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "QA note",
+                    "so": "Ogeysiis QA",
+                    "sw": "Kumbukumbu ya QA"
+                },
+                "body": {
+                    "en": "This page is a placeholder for Somalia's EACJ information: judicial representation, how parties access the Court, and links to official judgments. Do not treat anything here as legal advice.",
+                    "so": "Boggan waa meel-hayn loogu talagalay macluumaadka EACJ: wakiillada garsoorka, sida maxkamadda loo galo, iyo xukunnada rasmiga. Halkan ha u qaadan talo sharci.",
+                    "sw": "Ukurasa huu ni nafasi ya taarifa za Somalia kuhusu EACJ: uwakilishi wa kimahakama, jinsi wahusika wanavyofikia Mahakama, na viungo vya hukumu rasmi. Usichukulie chochote hapa kama ushauri wa kisheria."
+                }
+            }
+        ]
+    },
+    "coordination": {
+        "eyebrow": {
+            "en": "National coordination",
+            "so": "Isku-duwidda qaran",
+            "sw": "Uratibu wa taifa"
+        },
+        "title": {
+            "en": "National coordination",
+            "so": "Isku-duwidda qaran",
+            "sw": "Uratibu wa taifa"
+        },
+        "intro": {
+            "en": "EAC implementation cuts across ministries: foreign affairs, commerce, finance, labour, interior, education and standards bodies. A national coordination function keeps commitments owned, dated and reported.",
+            "so": "Hirgelinta EAC waxay dhex martaa wasaarado: arrimaha dibadda, ganacsiga, maaliyadda, shaqada, gudaha, waxbarashada iyo hay'adaha heerarka. Hawsha isku-duwidda qaran waxay ilaalinaysaa in ballanqaadyadu leeyihiin milkiile, taariikh iyo warbixin.",
+            "sw": "Utekelezaji wa EAC unavuka wizara: mambo ya nje, biashara, fedha, kazi, mambo ya ndani, elimu na mashirika ya viwango. Kazi ya uratibu wa taifa inahakikisha majukumu yana mmiliki, tarehe na ripoti."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "How this site will show coordination",
+                    "so": "Sida mareeggu u muujin doono isku-duwidda",
+                    "sw": "Jinsi tovuti hii itaonyesha uratibu"
+                },
+                "list": [
+                    {
+                        "en": "Named focal points on each tracker record (Phase 2).",
+                        "so": "Xafiisyo magac leh oo ku yaal diiwaan kasta (Wajiga 2aad).",
+                        "sw": "Vituo vya mawasiliano vilivyo na majina katika kila rekodi ya kifuatiliaji (Awamu ya 2)."
+                    },
+                    {
+                        "en": "Document library with legal source and last-verified date.",
+                        "so": "Maktabad dukumentiyo oo leh xigasho sharci iyo taariikhda la xaqiijiyay.",
+                        "sw": "Maktaba ya nyaraka yenye chanzo cha kisheria na tarehe ya uthibitisho wa mwisho."
+                    },
+                    {
+                        "en": "Public consultations when national positions are being formed.",
+                        "so": "Wadatashiyo dadweyne marka mawqifyo qaran la dhisayo.",
+                        "sw": "Mashauriano ya umma pale misimamo ya kitaifa inapoundwa."
+                    }
+                ]
+            }
+        ]
+    },
+    "somalia-faqs": {
+        "eyebrow": {
+            "en": "Understand",
+            "so": "Faham",
+            "sw": "Elewa"
+        },
+        "title": {
+            "en": "Frequently asked questions",
+            "so": "Su'aalaha inta badan la isweydiiyo",
+            "sw": "Maswali yanayoulizwa mara kwa mara"
+        },
+        "intro": {
+            "en": "Short answers for a national audience. These are explanatory notes for the QA prototype, not legal determinations.",
+            "so": "Jawaabo gaaban oo loogu talagalay dadweynaha. Qoraalladan waa sharraxaad tijaabo ah, ma aha go'aan sharci.",
+            "sw": "Majibu mafupi kwa umma wa taifa. Haya ni maelezo ya mfano wa QA, si maamuzi ya kisheria."
+        },
+        "faqs": [
+            {
+                "q": {
+                    "en": "Is Somalia a member of the EAC?",
+                    "so": "Soomaaliya ma xubin ka tahay EAC?",
+                    "sw": "Je, Somalia ni mwanachama wa EAC?"
+                },
+                "a": {
+                    "en": "Yes. Somalia became a full Partner State on 4 March 2024.",
+                    "so": "Haa. Soomaaliya waxay noqotay xubin buuxda 4-tii Maarso 2024.",
+                    "sw": "Ndiyo. Somalia ilikuwa Nchi Mshirika kamili tarehe 4 Machi 2024."
+                }
+            },
+            {
+                "q": {
+                    "en": "Does membership automatically change passport or work rules tomorrow?",
+                    "so": "Xubinnimadu ma si toos ah u beddelaysaa xeerarka baasaboorka ama shaqada berri?",
+                    "sw": "Je, uanachama unabadilisha moja kwa moja sheria za pasipoti au kazi kesho?"
+                },
+                "a": {
+                    "en": "No. Free-movement and labour rights are implemented through protocols, national laws and administrative procedures. Check the citizen pages and official immigration sources before travelling.",
+                    "so": "Maya. Xuquuqda dhaqdhaqaaqa iyo shaqada waxaa lagu dhaqan-geliyaa borotokollo, sharciyo qaran iyo nidaamyo maamul. Ka hor intaadan safrin eeg boggaga muwaadiniinta iyo ilaha socdaalka.",
+                    "sw": "Hapana. Uhuru wa kusafiri na haki za kazi hutekelezwa kupitia itifaki, sheria za taifa na taratibu za utawala. Angalia kurasa za wananchi na vyanzo rasmi vya uhamiaji kabla ya kusafiri."
+                }
+            },
+            {
+                "q": {
+                    "en": "Where can I read the Treaty and protocols?",
+                    "so": "Xaggee ka akhriyaa heshiiska iyo borotokoolada?",
+                    "sw": "Ninaweza kusoma Mkataba na itifaki wapi?"
+                },
+                "a": {
+                    "en": "Use the document library on this site and the official EAC e-Library.",
+                    "so": "Isticmaal maktabadda dukumentiyada ee mareeggan iyo e-Library-ga rasmiga ah ee EAC.",
+                    "sw": "Tumia maktaba ya nyaraka kwenye tovuti hii na e-Library rasmi ya EAC."
+                }
+            }
+        ]
+    },
+    "trading": {
+        "eyebrow": {
+            "en": "For Business",
+            "so": "Ganacsatada",
+            "sw": "Kwa Biashara"
+        },
+        "title": {
+            "en": "Trading in the EAC",
+            "so": "Ganacsiga EAC",
+            "sw": "Kufanya biashara katika EAC"
+        },
+        "intro": {
+            "en": "A practical starting point for Somali traders moving goods across EAC Partner States. Production content must be validated by customs and commerce authorities.",
+            "so": "Bilow wax-qabad ah oo loogu talagalay ganacsatada Soomaaliyeed ee badeecadaha u raraysa dawladaha EAC. Qoraalka soo-saarista waa in ay xaqiijiyaan hay'adaha kastamka iyo ganacsiga.",
+            "sw": "Hatua ya kwanza kwa wafanyabiashara wa Somalia wanaosafirisha bidhaa kati ya Nchi Washirika za EAC. Maudhui rasmi lazima yathibitishwe na mamlaka za forodha na biashara."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "What traders typically need",
+                    "so": "Waxa ganacsatadu inta badan u baahan yihiin",
+                    "sw": "Yanayohitajika kwa wafanyabiashara"
+                },
+                "list": [
+                    {
+                        "en": "Company and tax registration in Somalia.",
+                        "so": "Diiwaangelinta shirkadda iyo canshuurta ee Soomaaliya.",
+                        "sw": "Usajili wa kampuni na kodi nchini Somalia."
+                    },
+                    {
+                        "en": "Commercial invoice, packing list and transport documents.",
+                        "so": "Qaansheegta ganacsiga, liiska xamuulka iyo dukumentiyada gaadiidka.",
+                        "sw": "Ankara ya kibiashara, orodha ya kufunga na nyaraka za usafirishaji."
+                    },
+                    {
+                        "en": "Certificate of origin where preferential treatment is claimed.",
+                        "so": "Shahaadada asalka marka daaweyn gaar ah la sheeganayo.",
+                        "sw": "Cheti cha asili pale matibabu ya upendeleo yanapotakiwa."
+                    },
+                    {
+                        "en": "Standards, SPS or other technical certificates where required.",
+                        "so": "Shahaadooyin heer, SPS ama farsamo marka loo baahdo.",
+                        "sw": "Viwango, vyeti vya SPS au vyeti vingine vya kiufundi inapohitajika."
+                    }
+                ]
+            },
+            {
+                "heading": {
+                    "en": "If something goes wrong at the border",
+                    "so": "Haddii wax ka khaldamo xuduudda",
+                    "sw": "Ikiwa tatizo linatokea mpakani"
+                },
+                "body": {
+                    "en": "Non-tariff barriers (NTBs) — extra charges, delays, duplicate inspections or unclear rules — can be reported through the NTB form in this prototype. Production will connect to the official EAC NTB mechanism.",
+                    "so": "Caqabadaha aan canshuuraha ahayn (NTB) — kharashyo dheeraad, daahitaan, kormeer labanlaab ah ama xeerar aan caddayn — waxaa lagu soo sheegi karaa foomka NTB. Soo-saaristu waxay ku xidhi doontaa nidaamka rasmiga ah ee EAC.",
+                    "sw": "Vizuizi visivyo vya ushuru (NTB) — ada za ziada, ucheleweshaji, ukaguzi wa maradufu au sheria zisizo wazi — vinaweza kuripotiwa kupitia fomu ya NTB katika mfumo huu. Toleo rasmi litaunganishwa na utaratibu rasmi wa NTB wa EAC."
+                },
+                "links": [
+                    {
+                        "label": {
+                            "en": "Required documents",
+                            "so": "Dukumentiyada",
+                            "sw": "Nyaraka zinazohitajika"
+                        },
+                        "href": "business/documents"
+                    },
+                    {
+                        "label": {
+                            "en": "Report an NTB",
+                            "so": "Soo sheeg NTB",
+                            "sw": "Ripoti NTB"
+                        },
+                        "href": "business/report-ntb"
+                    },
+                    {
+                        "label": {
+                            "en": "Border procedures",
+                            "so": "Nidaamyada xuduudaha",
+                            "sw": "Taratibu za mpaka"
+                        },
+                        "href": "business/border-procedures"
+                    }
+                ]
+            }
+        ]
+    },
+    "business-documents": {
+        "eyebrow": {
+            "en": "For Business",
+            "so": "Ganacsatada",
+            "sw": "Kwa Biashara"
+        },
+        "title": {
+            "en": "Required documents",
+            "so": "Dukumentiyada loo baahan yahay",
+            "sw": "Nyaraka zinazohitajika"
+        },
+        "intro": {
+            "en": "A sample checklist. Confirm current requirements with Somali customs and the destination Partner State before shipment.",
+            "so": "Liis tijaabo ah. Ka hor rarista xaqiiji shuruudaha hadda ee kastamka Soomaaliya iyo dawladda loo socdo.",
+            "sw": "Orodha ya mfano. Thibitisha mahitaji ya sasa na forodha ya Somalia na Nchi Mshirika unayoelekea kabla ya kusafirisha."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Core commercial set",
+                    "so": "Agabka ganacsiga aasaasiga",
+                    "sw": "Nyaraka kuu za biashara"
+                },
+                "list": [
+                    {
+                        "en": "Commercial invoice",
+                        "so": "Qaansheeg ganacsi",
+                        "sw": "Ankara ya kibiashara"
+                    },
+                    {
+                        "en": "Packing list",
+                        "so": "Liiska xamuulka",
+                        "sw": "Orodha ya kufunga"
+                    },
+                    {
+                        "en": "Bill of lading / air waybill / road consignment note",
+                        "so": "Warqadda rarista / hawada / waddada",
+                        "sw": "Hati ya mizigo / waybill ya ndege / noti ya usafirishaji wa barabara"
+                    },
+                    {
+                        "en": "Certificate of origin (where applicable)",
+                        "so": "Shahaadada asalka (haddii khusayso)",
+                        "sw": "Cheti cha asili (inapohitajika)"
+                    },
+                    {
+                        "en": "Import/export permits for controlled goods",
+                        "so": "Oggolaanshaha soo-dejinta/dhaofinta badeecadaha xakameysan",
+                        "sw": "Ruhusa za kuingiza/kutoa nje kwa bidhaa zinazodhibitiwa"
+                    }
+                ]
+            }
+        ]
+    },
+    "tariffs": {
+        "eyebrow": {
+            "en": "For Business",
+            "so": "Ganacsatada",
+            "sw": "Kwa Biashara"
+        },
+        "title": {
+            "en": "Tariff guidance",
+            "so": "Tilmaanta canshuuraha",
+            "sw": "Mwongozo wa ushuru"
+        },
+        "intro": {
+            "en": "The EAC Customs Union uses a common external tariff framework. Somalia's applied rates, exemptions and transition arrangements must be published by the competent authority — this page is explanatory only.",
+            "so": "Ururka Kastamka ee EAC wuxuu isticmaalaa qaabka canshuurta dibadda ee wadaagga. Heerarka Soomaaliya, ka-dhaafitaannada iyo nidaamyada kala-guurka waa in hay'adda mas'uulka ahi daabacdo — boggan waa sharraxaad oo keliya.",
+            "sw": "Muungano wa Forodha wa EAC unatumia mfumo wa ushuru wa nje wa pamoja. Viwango vinavyotumika Somalia, msamaha na mipango ya mpito lazima vichapishwe na mamlaka husika — ukurasa huu ni wa maelezo tu."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "What you will find in Phase 2",
+                    "so": "Waxa Wajiga 2aad ka heli doonto",
+                    "sw": "Utakachokuta katika Awamu ya 2"
+                },
+                "list": [
+                    {
+                        "en": "HS-code lookup with applied rate and legal source.",
+                        "so": "Raadinta koodka HS oo leh heerka la dhaqan-geliyay iyo xigashada sharciga.",
+                        "sw": "Utafutaji wa msimbo wa HS wenye kiwango kinachotumika na chanzo cha kisheria."
+                    },
+                    {
+                        "en": "Notes on originating goods versus extra-regional imports.",
+                        "so": "Qoraallo ku saabsan badeecadaha asalka vs soo-dejinta ka baxsan gobolka.",
+                        "sw": "Maelezo kuhusu bidhaa zenye asili ya Jumuiya dhidi ya uagizaji kutoka nje ya kanda."
+                    },
+                    {
+                        "en": "Links to official tariff schedules, not unofficial copies.",
+                        "so": "Xidhiidho jadwalka canshuuraha rasmiga, ma aha nuqullo aan rasmi ahayn.",
+                        "sw": "Viungo vya ratiba rasmi za ushuru, si nakala zisizo rasmi."
+                    }
+                ]
+            }
+        ]
+    },
+    "border-procedures": {
+        "eyebrow": {
+            "en": "For Business",
+            "so": "Ganacsatada",
+            "sw": "Kwa Biashara"
+        },
+        "title": {
+            "en": "Border procedures",
+            "so": "Nidaamyada xuduudaha",
+            "sw": "Taratibu za mpaka"
+        },
+        "intro": {
+            "en": "Border posts operate under national customs law plus EAC facilitation instruments. Hours, inspection regimes and connected agencies differ by crossing.",
+            "so": "Saldhigyada xuduudaha waxaa lagu shaqeeyaa sharciga kastamka qaran iyo agabka fududaynta EAC. Saacadaha, kormeerka iyo hay'adaha ku xidhan way kala duwan yihiin.",
+            "sw": "Vituo vya mpaka vinaendeshwa kwa sheria ya forodha ya taifa pamoja na vyombo vya uwezeshaji vya EAC. Saa, taratibu za ukaguzi na mashirika yanayohusika hutofautiana kulingana na kivuko."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Before you travel to a crossing",
+                    "so": "Ka hor intaadan tagin xuduudda",
+                    "sw": "Kabla ya kufika mpakani"
+                },
+                "list": [
+                    {
+                        "en": "Confirm opening hours and which agencies are present.",
+                        "so": "Xaqiiji saacadaha furitaanka iyo hay'adaha jooga.",
+                        "sw": "Thibitisha saa za kazi na mashirika yaliyopo."
+                    },
+                    {
+                        "en": "Pre-clear documents where electronic systems exist.",
+                        "so": "Horay u nadiifi dukumentiyada haddii nidaam elektaroonik ah jiro.",
+                        "sw": "Futa nyaraka mapema pale mifumo ya kielektroniki ilipo."
+                    },
+                    {
+                        "en": "Carry originals and copies; keep a contact for the consignee.",
+                        "so": "Qaado asalka iyo nuqullo; hay xiriirka qaataha.",
+                        "sw": "Beba nakala asili na nakala; weka mawasiliano ya mpokeaji."
+                    }
+                ]
+            }
+        ]
+    },
+    "standards": {
+        "eyebrow": {
+            "en": "For Business",
+            "so": "Ganacsatada",
+            "sw": "Kwa Biashara"
+        },
+        "title": {
+            "en": "Standards",
+            "so": "Heerarka",
+            "sw": "Viwango"
+        },
+        "intro": {
+            "en": "Standards, metrology and sanitary/phytosanitary rules protect consumers and can also become NTBs if they are applied opaquely. This page will point to Somali and EAC standards bodies.",
+            "so": "Heerarka, cabbirada iyo xeerarka caafimaadka dhirta/xoolaha waxay ilaalinayaan macaamiisha, waxayna noqon karaan NTB haddii si mugdi ah loo dhaqan-geliyo. Boggan wuxuu tilmaami doonaa hay'adaha heerarka.",
+            "sw": "Viwango, metrologia na kanuni za afya ya mimea/wanyama hulinda watumiaji, lakini vinaweza kuwa NTB vikitumika bila uwazi. Ukurasa huu utaelekeza kwa mashirika ya viwango ya Somalia na EAC."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "QA placeholder",
+                    "so": "Meel-haynta QA",
+                    "sw": "Nafasi ya QA"
+                },
+                "body": {
+                    "en": "Production should name the national standards authority, recognised laboratories, and the EAC standards, quality, metrology and testing (SQMT) framework, with links to current catalogues.",
+                    "so": "Soo-saaristu waa inay magacaabtaa hay'adda heerarka qaran, shaybaarrada la aqoonsan yahay, iyo qaabka SQMT ee EAC, iyadoo xidhiidhinaysa buugaagta hadda.",
+                    "sw": "Toleo rasmi linapaswa kutaja mamlaka ya viwango ya taifa, maabara zinazotambulika, na mfumo wa viwango, ubora, metrologia na upimaji (SQMT) wa EAC, pamoja na viungo vya orodha za sasa."
+                }
+            }
+        ]
+    },
+    "business-faqs": {
+        "eyebrow": {
+            "en": "For Business",
+            "so": "Ganacsatada",
+            "sw": "Kwa Biashara"
+        },
+        "title": {
+            "en": "Business FAQs",
+            "so": "Su'aalaha ganacsiga",
+            "sw": "Maswali ya biashara"
+        },
+        "intro": {
+            "en": "Common trader questions. Answers are illustrative for QA and must be cleared by customs before public use.",
+            "so": "Su'aalaha ganacsatada. Jawaabuhu waa tusaale QA ah, waana in kastamku ansixiyo ka hor isticmaalka dadweynaha.",
+            "sw": "Maswali ya kawaida ya wafanyabiashara. Majibu ni ya mfano kwa QA na lazima yathibitishwe na forodha kabla ya matumizi ya umma."
+        },
+        "faqs": [
+            {
+                "q": {
+                    "en": "Do I still pay duty on goods from another EAC Partner State?",
+                    "so": "Weli ma bixiyaa canshuur badeecad ka timid dawlad kale oo EAC ah?",
+                    "sw": "Je, bado ninalipa ushuru kwa bidhaa kutoka Nchi nyingine Mshirika ya EAC?"
+                },
+                "a": {
+                    "en": "Preferential treatment usually depends on origin rules and correct documentation. Confirm the current applied treatment with Somali customs for your HS code.",
+                    "so": "Daaweynta gaarka ahi waxay inta badan ku xiran tahay xeerarka asalka iyo dukumentiyada saxda ah. Ka xaqiiji kastamka Soomaaliya daaweynta hadda ee koodkaaga HS.",
+                    "sw": "Matibabu ya upendeleo hutegemea kanuni za asili na nyaraka sahihi. Thibitisha matibabu ya sasa na forodha ya Somalia kwa msimbo wako wa HS."
+                }
+            },
+            {
+                "q": {
+                    "en": "What is an NTB?",
+                    "so": "Waa maxay NTB?",
+                    "sw": "NTB ni nini?"
+                },
+                "a": {
+                    "en": "A non-tariff barrier is a restriction other than a published tariff — for example an extra fee, an unexplained delay, or a duplicate inspection — that hinders trade.",
+                    "so": "Caqabad aan canshuur ahayn waa xayiraad aan ahayn canshuur daabacan — tusaale kharash dheeraad, daahitaan aan la sharraxin, ama kormeer labanlaab ah.",
+                    "sw": "Kizuizi kisicho cha ushuru (NTB) ni kizuizi kingine isipokuwa ushuru uliotangazwa — kwa mfano ada ya ziada, kuchelewa bila maelezo, au ukaguzi wa maradufu — kinachozuia biashara."
+                }
+            }
+        ]
+    },
+    "travel": {
+        "eyebrow": {
+            "en": "For Citizens",
+            "so": "Muwaadiniinta",
+            "sw": "Kwa Wananchi"
+        },
+        "title": {
+            "en": "Travel & passport",
+            "so": "Safarka & baasaboorka",
+            "sw": "Safari na pasipoti"
+        },
+        "intro": {
+            "en": "Travel between EAC Partner States is governed by national immigration law and community free-movement instruments. Always verify entry rules with official immigration sources before you travel.",
+            "so": "Safarka u dhexeeya dawladaha EAC waxaa lagu maamulaa sharciga socdaalka qaran iyo agabka dhaqdhaqaaqa xorta ah. Had iyo jeer ka xaqiiji xeerarka gelitaanka ilaha socdaalka ka hor safarka.",
+            "sw": "Kusafiri kati ya Nchi Washirika za EAC kunasimamiwa na sheria ya uhamiaji ya taifa na vyombo vya uhuru wa kusafiri vya Jumuiya. Daima thibitisha sheria za kuingia na vyanzo rasmi vya uhamiaji kabla ya kusafiri."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Before you travel",
+                    "so": "Ka hor safarka",
+                    "sw": "Kabla ya kusafiri"
+                },
+                "list": [
+                    {
+                        "en": "Check passport validity and any visa or pass requirements for the destination.",
+                        "so": "Hubi ansaxnimada baasaboorka iyo shuruudaha fiisaha ama kaadhka ee waddanka aad u socoto.",
+                        "sw": "Hakikisha pasipoti bado inaweza kutumika na mahitaji yoyote ya viza au pasi ya nchi unayoelekea."
+                    },
+                    {
+                        "en": "Carry supporting documents if you are travelling for work or study.",
+                        "so": "Qaado dukumentiyo taageeraya haddii aad u safrayso shaqo ama waxbarasho.",
+                        "sw": "Beba nyaraka za kuunga mkono ukisafiri kwa kazi au masomo."
+                    },
+                    {
+                        "en": "Do not rely on unofficial social-media summaries of entry rules.",
+                        "so": "Ha ku tiirsanaan warbixinno aan rasmi ahayn oo warbaahinta bulshada ah.",
+                        "sw": "Usitegemee muhtasari usio rasmi wa mitandao ya kijamii kuhusu sheria za kuingia."
+                    }
+                ]
+            }
+        ]
+    },
+    "work-residence": {
+        "eyebrow": {
+            "en": "For Citizens",
+            "so": "Muwaadiniinta",
+            "sw": "Kwa Wananchi"
+        },
+        "title": {
+            "en": "Work & residence",
+            "so": "Shaqada & degenaanshaha",
+            "sw": "Kazi na makazi"
+        },
+        "intro": {
+            "en": "The Common Market Protocol sets a framework for movement of labour and the right of establishment. National work-permit and residence rules still apply until fully aligned.",
+            "so": "Borotokoolka Suuqa Wadaagga wuxuu dejiyaa qaabka dhaqdhaqaaqa shaqada iyo xaqa dejin. Xeerarka oggolaanshaha shaqada iyo degenaanshaha qaran ayaa weli khuseeya ilaa si buuxda loo waafajiyo.",
+            "sw": "Itifaki ya Soko la Pamoja inaweka mfumo wa uhamaji wa kazi na haki ya kuanzisha biashara. Sheria za taifa za kibali cha kazi na makazi bado zinatumika hadi zikamilike kuoanishwa."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "QA guidance",
+                    "so": "Tilmaanta QA",
+                    "sw": "Mwongozo wa QA"
+                },
+                "body": {
+                    "en": "Production pages will list permit types, competent authorities, typical processing steps and links to official application portals. Nothing on this QA page is an application form.",
+                    "so": "Boggaga soo-saarista waxay liis gareyn doonaan noocyada oggolaanshaha, hay'adaha, tallaabooyinka iyo portallada rasmiga. Wax ka mid ah boggan QA ma aha foom codsi.",
+                    "sw": "Kurasa rasmi zitaorodhesha aina za ruhusa, mamlaka husika, hatua za kawaida na viungo vya lango rasmi la maombi. Hakuna kitu kwenye ukurasa huu wa QA kilicho fomu ya maombi."
+                }
+            }
+        ]
+    },
+    "study": {
+        "eyebrow": {
+            "en": "For Citizens",
+            "so": "Muwaadiniinta",
+            "sw": "Kwa Wananchi"
+        },
+        "title": {
+            "en": "Study in East Africa",
+            "so": "Waxbarasho Bariga Afrika",
+            "sw": "Soma Afrika Mashariki"
+        },
+        "intro": {
+            "en": "EAC membership is intended to make regional education more accessible through recognition of qualifications, student mobility and scholarship windows.",
+            "so": "Xubinnimada EAC waxaa loogu talagalay inay fududeyso waxbarashada gobolka iyada oo loo marayo aqoonsiga shahaadooyinka, dhaqdhaqaaqa ardayda iyo daaqadaha deeqaha.",
+            "sw": "Uanachama wa EAC unalenga kufanya elimu ya kikanda ipatikane kwa urahisi kupitia utambuzi wa sifa, uhamaji wa wanafunzi na dirisha la udhamini."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Start here",
+                    "so": "Ka bilow halkan",
+                    "sw": "Anza hapa"
+                },
+                "links": [
+                    {
+                        "label": {
+                            "en": "Scholarships & opportunities",
+                            "so": "Deeqaha & fursadaha",
+                            "sw": "Udhamini na fursa"
+                        },
+                        "href": "opportunities"
+                    },
+                    {
+                        "label": {
+                            "en": "Document library",
+                            "so": "Maktabadda dukumentiyada",
+                            "sw": "Maktaba ya nyaraka"
+                        },
+                        "href": "resources"
+                    }
+                ]
+            }
+        ]
+    },
+    "consultations": {
+        "eyebrow": {
+            "en": "Participate",
+            "so": "Ka-qaybgalka",
+            "sw": "Shiriki"
+        },
+        "title": {
+            "en": "Consultations",
+            "so": "Wadatashiyo",
+            "sw": "Mashauriano"
+        },
+        "intro": {
+            "en": "National EAC positions should be formed with input from business associations, civil society, federal member states and the public. This page will host open consultations.",
+            "so": "Mawqifyada qaran ee EAC waa in lagu dhisaa fikradaha ururada ganacsiga, bulshada rayidka, dawlad-goboleedyada iyo dadweynaha. Boggan wuxuu martigelin doonaa wadatashiyo furan.",
+            "sw": "Misimamo ya kitaifa kuhusu EAC inapaswa kujengwa kwa mchango wa vyama vya biashara, asasi za kiraia, nchi wanachama wa shirikisho na umma. Ukurasa huu utahifadhi mashauriano ya wazi."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "No open consultation (QA)",
+                    "so": "Wadatashi furan ma jiro (QA)",
+                    "sw": "Hakuna shauri lililo wazi (QA)"
+                },
+                "body": {
+                    "en": "There is no live consultation in this prototype. When one opens, it will show the question, deadline, who can submit, and how submissions are used.",
+                    "so": "Tijaabadan kuma jirto wadatashi socda. Marka mid furmo, wuxuu muujin doonaa su'aasha, kama dambaysta, cidda soo gudbin karta, iyo sida loo isticmaalo.",
+                    "sw": "Hakuna shauri linaloendelea katika mfumo huu. Litakapofunguliwa, litaonyesha swali, tarehe ya mwisho, nani anaweza kuwasilisha, na jinsi wasilisho zinavyotumika."
+                }
+            }
+        ]
+    },
+    "about": {
+        "eyebrow": {
+            "en": "About",
+            "so": "Nagu saabsan",
+            "sw": "Kuhusu"
+        },
+        "title": {
+            "en": "About this website",
+            "so": "Ku saabsan mareeggan",
+            "sw": "Kuhusu tovuti hii"
+        },
+        "intro": {
+            "en": "Somalia EAC Affairs is a national coordination and public-service gateway for Somalia's East African Community integration. This QA build is a design-complete prototype with sample content.",
+            "so": "Arrimaha EAC ee Soomaaliya waa albaab isku-duwid qaran iyo adeeg dadweyne oo loogu talagalay isku-dhafka Soomaaliya ee Bulshada Bariga Afrika. Dhismahan QA waa tijaabo naqshad dhammaystiran oo leh qoraal tusaale ah.",
+            "sw": "Masuala ya EAC ya Somalia ni lango la uratibu wa taifa na huduma kwa umma kuhusu ujumuishaji wa Somalia katika Jumuiya ya Afrika Mashariki. Toleo hili la QA ni mfano kamili wa muundo wenye maudhui ya mfano."
+        },
+        "sections": [
+            {
+                "heading": {
+                    "en": "Institutional home",
+                    "so": "Hoyga hay'adeed",
+                    "sw": "Makao ya kitaasisi"
+                },
+                "body": {
+                    "en": "Political coordination of EAC affairs sits with the Ministry of Foreign Affairs & International Cooperation, including the State Minister in charge of EAC Affairs. Implementation is whole-of-government.",
+                    "so": "Isku-duwidda siyaasadeed ee arrimaha EAC waxaa haya Wasaaradda Arrimaha Dibadda & Iskaashiga Caalamiga, oo ay ku jirto Wasiirka Gobolka ee Arrimaha EAC. Hirgelintu waa mid dawlad-dhan ah.",
+                    "sw": "Uratibu wa kisiasa wa masuala ya EAC uko chini ya Wizara ya Mambo ya Nje na Ushirikiano wa Kimataifa, ikiwemo Waziri wa Nchi msimamizi wa Masuala ya EAC. Utekelezaji ni wa serikali nzima."
+                },
+                "links": [
+                    {
+                        "label": {
+                            "en": "Leadership",
+                            "so": "Hogaaminta",
+                            "sw": "Uongozi"
+                        },
+                        "href": "somalia-in-eac/leadership"
+                    },
+                    {
+                        "label": {
+                            "en": "MFA EAC Affairs ↗",
+                            "so": "Arrimaha EAC ee MFA ↗",
+                            "sw": "Masuala ya EAC ya Wizara ya Mambo ya Nje ↗"
+                        },
+                        "href": "https://web.mfa.gov.so/eac-affairs/"
+                    }
+                ]
+            },
+            {
+                "heading": {
+                    "en": "Phase 2",
+                    "so": "Wajiga 2aad",
+                    "sw": "Awamu ya 2"
+                },
+                "body": {
+                    "en": "Keep this frontend JSON contract stable. Replace data files with API endpoints for pages, translations, news, opportunities, documents, tracker records, representatives, events and site settings.",
+                    "so": "Qandaraaska JSON ee horay u sii joogteey. Ku beddel faylasha xogta API-yo loogu talagalay boggaga, tarjumaadaha, wararka, fursadaha, dukumentiyada, diiwaannada raadinta, wakiillada, dhacdooyinka iyo dejinta.",
+                    "sw": "Dumisha mkataba huu wa JSON wa kiolesura. Badilisha faili za data na milango ya API kwa kurasa, tafsiri, habari, fursa, nyaraka, rekodi za kifuatiliaji, wawakilishi, matukio na mipangilio."
+                }
+            }
+        ]
+    }
+}
